@@ -2,5 +2,31 @@
 title: Research
 ---
 
+## Knowledge-Aware Retrieval-Augmented Language Models
+
+The project aims at developing large-scale algorithms for highly-multilingual media monitoring that will produce reliable real-time alerts on an open set of event types indicating global threats—including:
+- pandemic outbreaks,
+- terrorist attacks,
+- socio-political unrest,
+- human trafficking, smuggling of arms,
+- natural and man-made disasters,
+- etc.
+
+### Objectives
+
+The objectives in this theme are:
+1. We pursue a highly timely and topical application: designing state-of-the-art large language models (LLMs) for detecting events in the context of global social threats, with clear societal impacts.
+2. We explore fundamental problems in LLMs—in the context of this application, namely: model explainability, confidence, and sustainability.
+
+To achieve these goals, we leverage High Performance Computing (HPC) to build and refine LLM methodologies, and a critical mass of international collaboration, with collaborators who bring complementary expertise and resources.
+
+## Detection of Propaganda and Persuasion Techniques in Media
+
+Advancing technology opens vast possibilities to easily create communication channels between information producers and consumers — this opens the potential to expose the latter to deceptive content and attempts at manipulation. 
+Huge audiences are affected online, and major crisis events are subjected to the spread of harmful disinformation and propaganda.
+
+We develop methods for supporting users in analyzing the media ecosystem and characterizing manipulation attempts.
+The goal is to identify what methods exactly the propaganda is using, and what kind of harmful effect it aims to achieve.
+
 ## Seminar
 ...
