@@ -14,6 +14,11 @@ title: Publications by the Project Team
   - [LREC-COLING 2024: Joint International Conference on Computational Linguistics, Language Resources and Evaluation](https://lrec-coling-2024.org/)
 
 
+- __Probing the Category of Verbal Aspect in Transformer Language Models__
+  - Anisia Katinskaia, Roman Yangarber
+  - [NAACL: 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/)
+
+
 ### Our work on Model Sustainability:
 
 - __Effects of sub-word segmentation on performance of transformer language models__
