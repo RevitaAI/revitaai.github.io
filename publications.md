@@ -10,7 +10,7 @@ title: Publications by the Project Team
 ### Our work on Model Explainability:
 
 - __What do Transformers Know about Government?__
-  - Jue Hou, Anisia Katinskaia, Lari Kotilainen, Sathianpong Trangcasanchai, Duc Vu Anh, Roman Yangarber
+  - Jue Hou, Anisia Katinskaia, Lari Kotilainen, Sathianpong Trangcasanchai, Anh-Duc Vu, Roman Yangarber
   - [LREC-COLING 2024: Joint International Conference on Computational Linguistics, Language Resources and Evaluation](https://lrec-coling-2024.org/)
 
 
