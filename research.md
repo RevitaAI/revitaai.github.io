@@ -1,1 +1,1 @@
-<h1>Seminar</h1>
+<h3>Seminar</h3>
