@@ -1,3 +1,5 @@
-<p><a href="https://researchportal.helsinki.fi/fi/persons/roman-yangarber" target="_blank"><b>Roman Yangarber</b></a> - professor, project lead.</p>
+## Project Team
 
-<p><a href="https://researchportal.helsinki.fi/en/persons/lidia-pivovarova" target="_blank"><b>Lidia Pivovarova</b></a> - postdoctoral researcher, co-PI.</p>
+- [__Roman Yangarber__](https://researchportal.helsinki.fi/fi/persons/roman-yangarber) - professor, project lead.
+
+- [__Lidia Pivovarova__](https://researchportal.helsinki.fi/en/persons/lidia-pivovarova) - postdoctoral researcher, co-PI.
