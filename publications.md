@@ -1,8 +1,6 @@
 ---
-title: 
+title: Publications by the Project Team
 ---
-
-## Publications by the Project Team
 
 ### Model explainability
 

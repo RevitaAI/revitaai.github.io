@@ -1,8 +1,6 @@
 ---
-title: 
+title: Project Team
 ---
-
-## Project Team
 
 ### PIs
 
