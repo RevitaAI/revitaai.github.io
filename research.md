@@ -20,13 +20,15 @@ The objectives in this theme are:
 
 To achieve these goals, we leverage High Performance Computing (HPC) to build and refine LLM methodologies, and a critical mass of international collaboration, with collaborators who bring complementary expertise and resources.
 
-## Detection of Propaganda and Persuasion Techniques in Media
 
-Advancing technology opens vast possibilities to easily create communication channels between information producers and consumers — this opens the potential to expose the latter to deceptive content and attempts at manipulation. 
+## Detecting Propaganda and Persuasion Techniques in Media
+
+Advancing technology opens vast possibilities to easily create communication channels between information producers and consumers.
+This creates the potential to expose the latter to _deceptive_ content and _mass manipulation_.
 Huge audiences are affected online, and major crisis events are subjected to the spread of harmful disinformation and propaganda.
 
-We develop methods for supporting users in analyzing the media ecosystem and characterizing manipulation attempts.
-The goal is to identify what methods exactly the propaganda is using, and what kind of harmful effect it aims to achieve.
+We develop methods for supporting users, to analyze the media ecosystem and characterize manipulation attempts.
+The goal is to identify what methods the propaganda is using, and what kind of harmful effect it aims to achieve.
 
 ## Seminar
 ...

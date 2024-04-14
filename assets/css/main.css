@@ -3793,7 +3793,7 @@
 		display: -ms-flex;
 		display: flex;
 		border-bottom: solid 5px #2b6355;
-		padding: 6em 0 1em 0;
+		padding: 3em 0 1em 0; /* 6em */
 		position: relative;
 	}
 
@@ -3801,7 +3801,9 @@
 			-moz-flex: 1;
 			-webkit-flex: 1;
 			-ms-flex: 1;
-			flex: 1;
+			flex-grow: 1;
+			flex-shrink: 1;
+			flex-basis: auto;
 			margin-bottom: 0;
 		}
 
@@ -3819,7 +3821,7 @@
 		@media screen and (max-width: 1680px) {
 
 			#header {
-				padding-top: 3em;
+				padding-top: 3em;  /* 5em */
 			}
 
 		}
