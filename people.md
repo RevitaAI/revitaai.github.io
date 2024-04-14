@@ -2,17 +2,18 @@
 title: Project Team
 ---
 
-### Doctoral researchers
-
-- [__Anh-Duc Vu__](https://researchportal.helsinki.fi/fi/persons/duc-vu-anh) — doctoral researcher.
-
-- [__Jue Hou__](https://researchportal.helsinki.fi/fi/persons/jue-hou) — doctoral researcher.
-
 ### PIs
 
 - [__Lidia Pivovarova__](https://researchportal.helsinki.fi/en/persons/lidia-pivovarova) — postdoctoral researcher.
 
 - [__Roman Yangarber__](https://researchportal.helsinki.fi/fi/persons/roman-yangarber) — professor.
+
+
+### Doctoral researchers
+
+- [__Anh-Duc Vu__](https://researchportal.helsinki.fi/fi/persons/duc-vu-anh) — doctoral researcher.
+
+- [__Jue Hou__](https://researchportal.helsinki.fi/fi/persons/jue-hou) — doctoral researcher.
 
 
 ### International Collaborators
@@ -26,4 +27,3 @@ title: Project Team
 - JRC: European Commission's Joint Research Centre:
   - [__Marco Verile__](http://emm.newsbrief.eu/overview.html) — Europe Media Monitor Team Leader / JRC.I.3: Text and Data Mining
   - __Jakub Piskorski__
-
