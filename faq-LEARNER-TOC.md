@@ -23,7 +23,8 @@ title: FAQ for Learners
 <!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
 
 
-
+____________________________________________________________________________
+____________________________________________________________________________
 ### Why should I register in Revita?
 
 You can use Revita in "*guest*"  mode, without registering.  However, if you register, Revita can offer you important features, such as:
@@ -36,7 +37,18 @@ Note, when you register, you create a user name, by which other users can see yo
 ![login](assets/images/200180-register1.png.webp)
 
 
+____________________________________________________________________________
+### How can I change my user name, email or password?
 
+Your personal information can be viewed and edited in the <u>Profile</u> ⇒ <u>Account  View</u>.  You can reach it by clicking on the <u>Profile</u> icon or the <u>Settings</u> icon.
+
+The Account view allows you to change your user name or your password.  Currently, the email of the account cannot be changed.  In the near future we will enable also the changing of the email.
+
+If you've *forgotten your password*, you can always request a form to renew the password via your email address.
+
+
+____________________________________________________________________________
+____________________________________________________________________________
 ### Do other people see my stories?
 
 All stories you upload to your **private library** are visible only to you.  There is no way anyone else can look inside your private library.
@@ -44,7 +56,7 @@ All stories you upload to your **private library** are visible only to you.  The
 You can now [share stories](#can-i-share-a-story-with-a-friend) with your friends — you can choose a particular story and send it to a friend; if the friend accepts it, it will appear in her own private library.
 
 
-
+____________________________________________________________________________
 ### Can I share a story with a friend?
 
 You share any story you like with your friends:
@@ -57,7 +69,8 @@ You share any story you like with your friends:
 * The list of **followed** friends appears in the Profile page.
 
 
-
+____________________________________________________________________________
+____________________________________________________________________________
 ### How does Revita create exercises based on your chosen story?
 
 - Revita analyzes each story,
@@ -76,6 +89,7 @@ You share any story you like with your friends:
 <!---
     - [Как Ревита создает упражнения на основе текста ?](#как-ревита-создает-упражнения-на-основе-текста-)
 
+____________________________________________________________________________
 ### Как Ревита создает упражнения на основе текста ?
 
 Ревита анализирует каждый тескт, разбивает его на кусочки (примерно 2-3 предложения), и для каждого кусочка создает упражнения, настроенные на уровень ученика:
@@ -91,6 +105,7 @@ You share any story you like with your friends:
 --->
 
 
+____________________________________________________________________________
 ### What is a story's rating?
 
 For each story, Revita tries to estimate its level of difficulty.  The difficulty depends on many factors: on the levels of difficulty of the concepts found in the story, on how difficult/rare the words in the story are, etc.  The story''s rating is used in computing the learner's rating, explained in part here.  
@@ -98,7 +113,7 @@ For each story, Revita tries to estimate its level of difficulty.  The difficult
 In the library, the difficulty is marked by one to three stars. 
 
 
-
+____________________________________________________________________________
 ### How are flashcards collected?
 
 Revita creates **Flashcards** for you when you are reading or practicing with a story: any time when you see an unfamiliar word, you can click on it — that will display the word's translation (in a language of your choice), and will also add that word to your deck of flashcards.  The flashcard will contain 3 things:
@@ -115,7 +130,7 @@ You can review your vocabulary in the "Flashcard" exercises.  If you don't remem
 You can add new flashcards, edit any flashcard in your deck, and delete any flashcards you don't like / need.
 
 
-
+____________________________________________________________________________
 ### Why do flashcards have different colors?
 
 Flashcards track how difficult you find words in the vocabulary.  Easier words — whose meaning you know most of the time — have greener color, and more difficult words — which are harder to remember — have redder color, and words in between are yellowish.
@@ -130,27 +145,29 @@ Blue cards are special —
 * If it turns out that in fact you do not know it, your vocabulary esimates take this into account.  Also, the card will enter into your deck (as a red card).
 
 
-
+____________________________________________________________________________
+____________________________________________________________________________
 ### What is a Group?
 
-Groups in Revita are created by teachers — at a school, a university, private tutors, etc.  A teacher can add her students (and additional teachers) to a group.  The main purpose of a group is:
+You can join a group if you are learning with a teacher.  Groups are created by teachers — at a school, a university, private tutors, etc.  A teacher can add her students (and additional teachers) to a group.  The purpose of a group is:
+* Each Group has a Library, where the teacher uploads stories that she recommends as helpful for the students.
+* The teacher can follow how well the students are practicing with the stories.  The teacher can see — for the entire group — which topics the students have mastered, and which are more challenging, so the teacher can plan the lectures better.
 
-* Each Group has its own Library, where the teacher uploads stories that he recommends and believes are helpful for the students.
-* The teacher can see how well the students are succeeding with exercises based on the stories.  The teacher can see — for the entire group — which concepts the students have mastered, and which concepts are more challenging, so the teacher can plan her time with the class better.
-
-Optional: The teacher can also control the learning settings for all stories in a group — which exercises are enabled.  The teacher can also enable <u>Tests</u> — for a fixed period of time — for some languages.
-
+(Optional:)
+* The teacher can control the _learning settings_ for all stories in a Group Library — which exercises are enabled.  
+* The teacher also enable <u>Tests</u> — for a fixed period of time.  Tests are available for some languages.
 
 
+____________________________________________________________________________
 ### How can I join a group?
 
-Groups are organized by the teacher.  The teacher invites the students to join the group by
+Groups are organized by the teacher.  The teacher invites the students to join the group by:
 
-* adding the students to the group (using the student email addresses) and sending them invitations.  The student has to accept the invitation to join the group. 
-* OR: the teacher shares a secret **key** with the students (e.g., by email).  The key allows the student to join the group immediately (no invitation needed).  The key is valid for 30 days (if the student has not joined in 30 days, a new key must be requested).  To join a group using a key, go to <u>My groups (for student)</u>  ⇒ <u>Join a group</u>.
+* Adding students to the Group — using their email addresses — and sending them invitations.  The student must accept the invitation to join the group.
+* Sharing a secret *key* with the students.  The key allows the student to join the group immediately, no invitation needed.  The key is valid for 30 days; if the student has not joined in 30 days, a new key must be created.  To join a group using a key, go to _Side Bar ⇒ More ⇒ Groups_.
 
 
-
+____________________________________________________________________________
 ### What does my rating mean?
 
 The rating is based on the Élő formlula — it is the method used to rate players in chess and in many on-line games — except here the "players" are the learner and the **exercises**.  Each exercise has a difficulty level, which is its own "rating". 
@@ -187,17 +204,8 @@ The idea is that the increase or loss reflects the **expectation** or surprise �
 Based on your rating, Revita also tries to estimate your CEFR level — a rating around 1000 is near A1, rating over 2200 is C2, and the rest are in between.  These estimates are approximate, and will be improved over time.
 
 
-
-### How can I change my user name, email or password?
-
-Your personal information can be viewed and edited in the <u>Profile</u> ⇒ <u>Account  View</u>.  You can reach it by clicking on the <u>Profile</u> icon or the <u>Settings</u> icon.
-
-The Account view allows you to change your user name or your password.  Currently, the email of the account cannot be changed.  In the near future we will enable also the changing of the email.
-
-If you've *forgotten your password*, you can always request a form to renew the password via your email address.
-
-
-
+____________________________________________________________________________
+____________________________________________________________________________
 ### My question is not in this list, whom can I ask?
 
 If you have any questions — or suggestions or comments — please contact the team through the <u>Contact</u> page, or write to the Revita team at  revita@cs.helsinki.fi
