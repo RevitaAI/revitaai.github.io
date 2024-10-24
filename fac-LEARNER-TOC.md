@@ -11,12 +11,13 @@ title: FAQ for Learners
 * [Why do flashcards have different colors?](#why-do-flashcards-have-different-colors)
 * [What is a Group?](#what-is-a-group)
 * [How can I join a group?](#how-can-i-join-a-group)
-* [I'm a teacher — how can I create a group?](#im-a-teacher--how-can-i-create-a-group)
 * [What does my rating mean?](#what-does-my-rating-mean)
 * [How can I change my user name, email or password?](#how-can-i-change-my-user-name-email-or-password)
 * [My question is not in this list, whom can I ask?](#my-question-is-not-in-this-list-whom-can-i-ask)
 
 <!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
+
+
 
 ### Why should I register in Revita?
 
@@ -29,11 +30,15 @@ Note, when you register, you create a user name, by which other users can see yo
 
 ![login](assets/images/200180-register1.png.webp)
 
+
+
 ### Do other people see my stories?
 
 All stories you upload to your **private library** are visible only to you.  There is no way anyone else can look inside your private library.
 
 You can now [share stories](#can-i-share-a-story-with-a-friend) with your friends — you can choose a particular story and send it to a friend; if the friend accepts it, it will appear in her own private library.
+
+
 
 ### Can I share a story with a friend?
 
@@ -45,6 +50,8 @@ You share any story you like with your friends:
 * The friend will receive a **notification** - if she accepts the story, it will appear in her private library.
 * The friend can also **follow** you: if she follows you, stories that you send her will be added to her private library automatically, without notification.
 * The list of **followed** friends appears in the Profile page.
+
+
 
 ### Как ревита создает упражнения на основе текста ?
 
@@ -59,11 +66,15 @@ You share any story you like with your friends:
 Поэтому очень важно, чтобы уровень упражнений оптимально соответствовал уровню ученика в среднем — т.е. ученик может получать очень сложные или очень простые упражнения, но это случается редко.
 1. Упражнения выбираются из текста случайным образом, так что при каждом прохождении текста, уражнения будут новыми — это позволяет многократно упражняться с одним и тем же текстом, и делает упражнения более разнообразными и менее скучными.
 
+
+
 ### What is a story's rating?
 
 For each story, Revita tries to estimate its level of difficulty.  The difficulty depends on many factors: on the levels of difficulty of the concepts found in the story, on how difficult/rare the words in the story are, etc.  The story''s rating is used in computing the learner's rating, explained in part here.  
 
 In the library, the difficulty is marked by one to three stars. 
+
+
 
 ### How are flashcards collected?
 
@@ -80,6 +91,8 @@ You can review your vocabulary in the "Flashcard" exercises.  If you don't remem
   
 You can add new flashcards, edit any flashcard in your deck, and delete any flashcards you don't like / need.
 
+
+
 ### Why do flashcards have different colors?
 
 Flashcards track how difficult you find words in the vocabulary.  Easier words — whose meaning you know most of the time — have greener color, and more difficult words — which are harder to remember — have redder color, and words in between are yellowish.
@@ -94,6 +107,7 @@ Blue cards are special —
 * If it turns out that in fact you do not know it, your vocabulary esimates take this into account.  Also, the card will enter into your deck (as a red card).
 
 
+
 ### What is a Group?
 
 Groups in Revita are created by teachers — at a school, a university, private tutors, etc.  A teacher can add her students (and additional teachers) to a group.  The main purpose of a group is:
@@ -103,6 +117,8 @@ Groups in Revita are created by teachers — at a school, a university, private 
 
 Optional: The teacher can also control the learning settings for all stories in a group — which exercises are enabled.  The teacher can also enable <u>Tests</u> — for a fixed period of time — for some languages.
 
+
+
 ### How can I join a group?
 
 Groups are organized by the teacher.  The teacher invites the students to join the group by
@@ -110,19 +126,6 @@ Groups are organized by the teacher.  The teacher invites the students to join t
 * adding the students to the group (using the student email addresses) and sending them invitations.  The student has to accept the invitation to join the group. 
 * OR: the teacher shares a secret **key** with the students (e.g., by email).  The key allows the student to join the group immediately (no invitation needed).  The key is valid for 30 days (if the student has not joined in 30 days, a new key must be requested).  To join a group using a key, go to <u>My groups (for student)</u>  ⇒ <u>Join a group</u>.
 
-### I'm a teacher — how can I create a group?
-
-The teacher can create any number of groups for students.  To create a group:
-
-* Select from the Menu Bar:  My groups (for teacher) ⇒  Create New Group
-* Add to the form the name of the group, a short description (optional).  Then click Create
-* The teacher can enter a list of students into the same form — their emails.  The teacher can also attach additional teachers to the group.  The students will receive an invitation — after they accept the invitation, they join the group.
-* **Recommended**: a more direct way to add students is to go to the Management  tab in the Teacher's Groups view, and click Show group key — the key is a long sequence of letters.  The key can be given to the students, who use it to join the group themselves.
-* Recommended **for schools / universities**: A teacher can request the status of "Master of Domain" by contacting the Revita Team.  A "Master" can add students within the school email domain, without invitation.
-  
-After the group is created, the Group Library will appear.  The teacher can **share** any story from her own private library to the library of her group.
-
-The teacher can follow the performance of the students in the Group by going to the <u>Analytics</u> tab.
 
 
 ### What does my rating mean?
@@ -161,6 +164,7 @@ The idea is that the increase or loss reflects the **expectation** or surprise �
 Based on your rating, Revita also tries to estimate your CEFR level — a rating around 1000 is near A1, rating over 2200 is C2, and the rest are in between.  These estimates are approximate, and will be improved over time.
 
 
+
 ### How can I change my user name, email or password?
 
 Your personal information can be viewed and edited in the <u>Profile</u> ⇒ <u>Account  View</u>.  You can reach it by clicking on the <u>Profile</u> icon or the <u>Settings</u> icon.
@@ -168,6 +172,8 @@ Your personal information can be viewed and edited in the <u>Profile</u> ⇒ <u>
 The Account view allows you to change your user name or your password.  Currently, the email of the account cannot be changed.  In the near future we will enable also the changing of the email.
 
 If you've *forgotten your password*, you can always request a form to renew the password via your email address.
+
+
 
 ### My question is not in this list, whom can I ask?
 
