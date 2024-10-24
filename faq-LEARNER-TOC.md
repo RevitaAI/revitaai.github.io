@@ -10,9 +10,6 @@ title: FAQ for Learners
     - [Can I share a story with a friend?](#can-i-share-a-story-with-a-friend)
 - Practice
     - [How does Revita create exercises based on your chosen story?](#how-does-revita-create-exercises-based-on-your-chosen-story)
-<!---
-    - [Как Ревита создает упражнения на основе текста ?](#как-ревита-создает-упражнения-на-основе-текста-)
---->
     - [How are flashcards collected?](#how-are-flashcards-collected)
     - [Why do flashcards have different colors?](#why-do-flashcards-have-different-colors)
     - [What is a story's rating?](#what-is-a-storys-rating)
@@ -73,6 +70,8 @@ You share any story you like with your friends:
 
 
 <!---
+    - [Как Ревита создает упражнения на основе текста ?](#как-ревита-создает-упражнения-на-основе-текста-)
+
 ### Как Ревита создает упражнения на основе текста ?
 
 Ревита анализирует каждый тескт, разбивает его на кусочки (примерно 2-3 предложения), и для каждого кусочка создает упражнения, настроенные на уровень ученика:
