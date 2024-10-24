@@ -3,6 +3,10 @@ title: FAQ for Learners
 ---
 
 - Registering and login
+    - Registering and login
+    - Registering and login
+    - Registering and login
+- Registering and login
     - [Why should I register in Revita?](#why-should-i-register-in-revita)
     - [How can I change my user name, email or password?](#how-can-i-change-my-user-name-email-or-password)
 - My Library
