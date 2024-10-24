@@ -14,7 +14,7 @@ title: FAQ for Learners
 * [I'm a teacher — how can I create a group?](#i'm-a-teacher-—-how-can-i-create-a-group)
 * [What does my rating mean?](#what-does-my-rating-mean)
 * [How can I change my user name, email or password?](#how-can-i-change-my-user-name,-email-or-password)
-* [My question is not in this list, whom can I ask?](#my-question-is-not-in-this-list,-whom-can-i-ask)
+* [My question is not in this list, whom can I ask?](#my-question-is-not-in-this-list-whom-can-i-ask)
 
 <!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
 
