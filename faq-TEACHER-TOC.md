@@ -17,14 +17,15 @@ title: FAQ for Teachers
 ____________________________________________________________________________
 ### How can I create a group?
 
-The teacher can create any number of groups for students.  To create a group:
+The teacher can create groups for students:
 
-* Go to the Home Page:  _Groups_ ⇒  _Create New Group_
-* Add to the form the name of the group, and a short description (optional).  
-* Then click _Create_
-* After the group is created:
-    * The Group Library will appear.  The teacher can **share** any story from her Private Library to the Group Library.
-    * The teacher can follow the performance of the students by going to _Analytics_.
+* Go to the Home Page:  _Groups_ ⇒  _Create New Group_ ⇒
+* Add the name of the group, and a short description (optional).
+    * You can enter a list of student emails into the same form.  You can attach additional teachers to the Group.
+* Click _Create_
+* Once the group is created:
+    * The Group Library will appear.  The teacher can **share** stories from the Private Library to the Group Library.
+    * The teacher can follow the performance of the students by going to ⇒ _Analytics_.
     * The teacher can [add students to the Group](#how-can-i-add-students-to-a-group).
 
 
@@ -33,25 +34,26 @@ ____________________________________________________________________________
 ### How can I add students to a group?
 
 * Go to the Home Page: ⇒  _Groups_ ⇒
-* Select the group from your list of groups ⇒ click on its title
+* Select the group from your list of groups ⇒ click on its Title ⇒
 
 There are two ways to add students:
-1. If the teacher _knows_ the students' email addresses:
-    * Go to the Group ⇒ click on _People_
-    * Add students' emails
-    * The students will receive an email, asking them to join:
-        * If the student was not already registered in Revita, she becomes registered, and receives an email with her new username and password. (She can change the password any time after logging in.)
+1. If the teacher _knows the email addresses_ of the students:
+    * Go to the Group ⇒ click on _People_ ⇒
+    * Add student emails
+    * Each student will receive an email, asking them to join:
         * If student was already registered, she gets invitation to join group in an email.<!--- (unless teacher is MASTER-OF-DOMAIN...) --->
-1. If the teacher _does not know_ the students' email addresses:
+        * If the student was not already registered in Revita, she becomes registered, and receives an email with her new username and password. (She can change the password any time after logging in.)
+1. If the teacher _does not know the email addresses_ of the students:
     * Go to the Group ⇒ click on _Show Key_
-    * Copy and post the Group Key somewhere where the students can pick it up — e.g., on the course web site.
-    * Using the key, the students can join the group.  Each key is valid for 1 month.  New keys can be made any time.
-
-* The teacher can enter a list of students into the same form — their emails.  The teacher can attach additional teachers to the group.  The students will receive an invitation — after they accept the invitation, they join the group.
-* **Recommended**: a more direct way to add students is to go to the Management  tab in the Teacher's Groups view, and click Show group key — the key is a long sequence of letters.  The key can be given to the students, who use it to join the group themselves.
+    * Copy and post the Group Key in a place where the students can pick it up — e.g., on the web site of a course.
+    * Students can join the group using the key.  Each key is valid for 1 month.  New keys can be made any time.
 
 <!--- 
+
+* **Recommended**: a more direct way to add students is to go to the Management  tab in the Teacher's Groups view, and click Show group key — the key is a long sequence of letters.  The key can be given to the students, who use it to join the group themselves.
+
 * Recommended **for schools / universities**: A teacher can request the status of "Master of Domain" by contacting the Revita Team.  A "Master" can add students within the school email domain, without invitation. 
+
 --->
   
 
