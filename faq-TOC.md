@@ -2,19 +2,19 @@
 title: FAQ for Learners
 ---
 
-        * [Why should I register in Revita?](#why-should-i-register-in-revita)
-        * [Do other people see my stories?](#do-other-people-see-my-stories)
-        * [Can I share a story with a friend?](#can-i-share-a-story-with-a-friend)
-        * [Как ревита создает упражнения на основе текста ?](#как-ревита-создает-упражнения-на-основе-текста-)
-        * [What is a story's rating?](#what-is-a-story's-rating)
-        * [How are flashcards collected?](#how-are-flashcards-collected)
-        * [Why do flashcards have different colors?](#why-do-flashcards-have-different-colors)
-        * [What is a Group?](#what-is-a-group)
-        * [How can I join a group?](#how-can-i-join-a-group)
-        * [I'm a teacher — how can I create a group?](#i'm-a-teacher-—-how-can-i-create-a-group)
-        * [What does my rating mean?](#what-does-my-rating-mean)
-        * [How can I change my user name, email or password?](#how-can-i-change-my-user-name,-email-or-password)
-        * [My question is not in this list, whom can I ask?](#my-question-is-not-in-this-list,-whom-can-i-ask)
+* [Why should I register in Revita?](#why-should-i-register-in-revita)
+* [Do other people see my stories?](#do-other-people-see-my-stories)
+* [Can I share a story with a friend?](#can-i-share-a-story-with-a-friend)
+* [Как ревита создает упражнения на основе текста ?](#как-ревита-создает-упражнения-на-основе-текста-)
+* [What is a story's rating?](#what-is-a-story's-rating)
+* [How are flashcards collected?](#how-are-flashcards-collected)
+* [Why do flashcards have different colors?](#why-do-flashcards-have-different-colors)
+* [What is a Group?](#what-is-a-group)
+* [How can I join a group?](#how-can-i-join-a-group)
+* [I'm a teacher — how can I create a group?](#i'm-a-teacher-—-how-can-i-create-a-group)
+* [What does my rating mean?](#what-does-my-rating-mean)
+* [How can I change my user name, email or password?](#how-can-i-change-my-user-name,-email-or-password)
+* [My question is not in this list, whom can I ask?](#my-question-is-not-in-this-list,-whom-can-i-ask)
 
 <!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
 
