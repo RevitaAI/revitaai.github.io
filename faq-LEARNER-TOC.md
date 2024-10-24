@@ -2,27 +2,23 @@
 title: FAQ for Learners
 ---
 
-* Registering and login
-** [Why should I register in Revita?](#why-should-i-register-in-revita)
-** [How can I change my user name, email or password?](#how-can-i-change-my-user-name-email-or-password)
-
-* My Library
-** [Do other people see my stories?](#do-other-people-see-my-stories)
-** [Can I share a story with a friend?](#can-i-share-a-story-with-a-friend)
-
-* Practice
-** [Как ревита создает упражнения на основе текста ?](#как-ревита-создает-упражнения-на-основе-текста-)
-** [How are flashcards collected?](#how-are-flashcards-collected)
-** [Why do flashcards have different colors?](#why-do-flashcards-have-different-colors)
-** [What is a story's rating?](#what-is-a-storys-rating)
-** [What does my rating mean?](#what-does-my-rating-mean)
-
-* Groups
-** [What is a Group?](#what-is-a-group)
-** [How can I join a group?](#how-can-i-join-a-group)
-
-* Other
-** [My question is not in this list, whom can I ask?](#my-question-is-not-in-this-list-whom-can-i-ask)
+- Registering and login
+    - [Why should I register in Revita?](#why-should-i-register-in-revita)
+    - [How can I change my user name, email or password?](#how-can-i-change-my-user-name-email-or-password)
+- My Library
+    - [Do other people see my stories?](#do-other-people-see-my-stories)
+    - [Can I share a story with a friend?](#can-i-share-a-story-with-a-friend)
+- Practice
+    - [Как ревита создает упражнения на основе текста ?](#как-ревита-создает-упражнения-на-основе-текста-)
+    - [How are flashcards collected?](#how-are-flashcards-collected)
+    - [Why do flashcards have different colors?](#why-do-flashcards-have-different-colors)
+    - [What is a story's rating?](#what-is-a-storys-rating)
+    - [What does my rating mean?](#what-does-my-rating-mean)
+- Groups
+    - [What is a Group?](#what-is-a-group)
+    - [How can I join a group?](#how-can-i-join-a-group)
+- Other
+    - [My question is not in this list, whom can I ask?](#my-question-is-not-in-this-list-whom-can-i-ask)
 
 <!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
 
@@ -62,9 +58,18 @@ You share any story you like with your friends:
 
 
 
-### Как ревита создает упражнения на основе текста ?
+### How does Revita create exercises based on your chosen story?
 
-евита анализирует каждый тескт, разбивает его на кусочки (примерно 2-3 предложения), и для каждого кусочка создает упражнения, настроенные на уровень ученика:
+- Revita analyzes each story,
+- Divides it into snippets (2-3 sentences each),
+- For each snippet, creates exercises that match the level of the learner:
+    - Words and phrases in the story are linked to grammatical topics that the learner needs to master.
+    - The map of the topics can be seen by going to the Home Page ⇒ Progress ⇒ Grammar Progress
+    - Revita selects which grammatical topics are best suited to the learner's current level.
+
+### Как Ревита создает упражнения на основе текста ?
+
+Ревита анализирует каждый тескт, разбивает его на кусочки (примерно 2-3 предложения), и для каждого кусочка создает упражнения, настроенные на уровень ученика:
 
 1. Все фразы и слова в тексте связаны с лингвистическими конструктами, которые ученик должен усвоить.  Схему конструктов можно увидеть в настройках, нажав "Настройки" ⇒ "Настройки обучения".  Конструкты могут быть включены / отключены в ручном режиме, или (более рекоммендуемо) оставить все конструкты включенными, и предоставить Ревите возможность выбирать подходящие конструкты в соответствии с уровнем знаний ученика. <br/><br/>
 Уровень ученика оценивается на основе всех предыдущих ответов на упражнения — какие конструкты для ученика проще, какие сложнее.
