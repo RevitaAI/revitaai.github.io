@@ -3,10 +3,6 @@ title: FAQ for Learners
 ---
 
 - Registering and login
-    - Registering and login
-    - Registering and login
-    - Registering and login
-- Registering and login
     - [Why should I register in Revita?](#why-should-i-register-in-revita)
     - [How can I change my user name, email or password?](#how-can-i-change-my-user-name-email-or-password)
 - My Library
@@ -71,7 +67,11 @@ You share any story you like with your friends:
     - The map of the topics can be seen by going to the Home Page ⇒ Progress ⇒ Grammar Progress
     - Revita selects which grammatical topics are best suited to the learner's current level.
     - Learner's level is evaluated based on all preceding answers to exercises: which topics the learner finds easy / difficult.
-
+- Revita tries to select exercises that match the learner's level:
+    - if exercises are often too easy — the learner will become bored,
+    - if exercises are often too difficult — the learner will become frustrated,
+- in either case — she will quite practicing. Thus it is very important to find the right level of difficulty, though sometimes there may be an easy or a difficult exercise.
+- Exercises are selected at random, so each time you work with a story, the exercises will be different.
 
 <!---
     - [Как Ревита создает упражнения на основе текста ?](#как-ревита-создает-упражнения-на-основе-текста-)
