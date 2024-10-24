@@ -10,9 +10,9 @@ title: FAQ for Learners
     - [Can I share a story with a friend?](#can-i-share-a-story-with-a-friend)
 - Practice
     - [How does Revita create exercises based on your chosen story?](#how-does-revita-create-exercises-based-on-your-chosen-story)
-<!--
+<!---
     - [Как Ревита создает упражнения на основе текста ?](#как-ревита-создает-упражнения-на-основе-текста-)
--->
+--->
     - [How are flashcards collected?](#how-are-flashcards-collected)
     - [Why do flashcards have different colors?](#why-do-flashcards-have-different-colors)
     - [What is a story's rating?](#what-is-a-storys-rating)
@@ -72,7 +72,7 @@ You share any story you like with your friends:
     - Learner's level is evaluated based on all preceding answers to exercises: which topics the learner finds easy / difficult.
 
 
-<!--
+<!---
 ### Как Ревита создает упражнения на основе текста ?
 
 Ревита анализирует каждый тескт, разбивает его на кусочки (примерно 2-3 предложения), и для каждого кусочка создает упражнения, настроенные на уровень ученика:
@@ -85,7 +85,7 @@ You share any story you like with your friends:
    * если упражнения слишком сложны слишком часто, ученик будет перегружен, и бросит занятия.
 Поэтому очень важно, чтобы уровень упражнений оптимально соответствовал уровню ученика в среднем — т.е. ученик может получать очень сложные или очень простые упражнения, но это случается редко.
 1. Упражнения выбираются из текста случайным образом, так что при каждом прохождении текста, уражнения будут новыми — это позволяет многократно упражняться с одним и тем же текстом, и делает упражнения более разнообразными и менее скучными.
--->
+--->
 
 
 ### What is a story's rating?
