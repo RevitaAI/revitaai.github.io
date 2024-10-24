@@ -63,14 +63,14 @@ You share any story you like with your friends:
 - Revita analyzes each story,
 - Divides it into snippets (2-3 sentences each),
 - For each snippet, creates exercises that match the level of the learner:
-    - Words and phrases in the story are linked to grammatical topics that the learner needs to master.
-    - The map of the topics can be seen by going to the Home Page ⇒ Progress ⇒ Grammar Progress
-    - Revita selects which grammatical topics are best suited to the learner's current level.
-    - Learner's level is evaluated based on all preceding answers to exercises: which topics the learner finds easy / difficult.
+    + Words and phrases in the story are linked to grammatical topics that the learner needs to master.
+    + The map of the topics can be seen by going to the Home Page ⇒ Progress ⇒ Grammar Progress
+    + Revita selects which grammatical topics are best suited to the learner's current level.
+    + Learner's level is evaluated based on all preceding answers to exercises: which topics the learner finds easy / difficult.
 - Revita tries to select exercises that match the learner's level:
-    - if exercises are often too easy — the learner will become bored,
-    - if exercises are often too difficult — the learner will become frustrated,
-- in either case — she will quite practicing. Thus it is very important to find the right level of difficulty, though sometimes there may be an easy or a difficult exercise.
+    + if exercises are often too easy — the learner will become bored,
+    + if exercises are often too difficult — the learner will become frustrated,
+- In either case — she will quit practicing. Thus it is very important to find the right level of difficulty, though sometimes there may be an easy or a difficult exercise.
 - Exercises are selected at random, so each time you work with a story, the exercises will be different.
 
 <!---
