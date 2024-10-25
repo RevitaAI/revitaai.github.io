@@ -6,6 +6,7 @@ title: FAQ for Learners
     - [Why should I register in Revita?](#why-should-i-register-in-revita)
     - [How can I change my user name, email or password?](#how-can-i-change-my-user-name-email-or-password)
 - My Library
+    - [Can I upload a deck of flashcards for practice?](#can-i-upload-a-deck-of-flashcards-for-practice)
     - [Do other people see my stories?](#do-other-people-see-my-stories)
     - [Can I share a story with a friend?](#can-i-share-a-story-with-a-friend)
 - Practice
@@ -25,6 +26,7 @@ title: FAQ for Learners
 
 ____________________________________________________________________________
 ____________________________________________________________________________
+
 ### Why should I register in Revita?
 
 You can use Revita in "*guest*"  mode, without registering.  However, if you register, Revita can offer you important features, such as:
@@ -38,6 +40,7 @@ Note, when you register, you create a user name, by which other users can see yo
 
 
 ____________________________________________________________________________
+
 ### How can I change my user name, email or password?
 
 Your personal information can be viewed and edited in the <u>Profile</u> ⇒ <u>Account  View</u>.  You can reach it by clicking on the <u>Profile</u> icon or the <u>Settings</u> icon.
@@ -49,6 +52,20 @@ If you've *forgotten your password*, you can always request a form to renew the 
 
 ____________________________________________________________________________
 ____________________________________________________________________________
+
+### Can I upload a deck of flashcards for practice?
+
+Yes, uploading flashcards works the same as uploading stories — from a _file_:
+* Place your flashcards into a .txt or .docx file
+* Each line contains:
+    * One word (or phrase) to be learned, followed by semicolon (;)
+    * One or more translations, separated by semicolons
+* Select language into which the cards are translated
+* Click _Upload_
+
+
+____________________________________________________________________________
+
 ### Do other people see my stories?
 
 All stories you upload to your **private library** are visible only to you.  There is no way anyone else can look inside your private library.
@@ -57,6 +74,7 @@ You can now [share stories](#can-i-share-a-story-with-a-friend) with your friend
 
 
 ____________________________________________________________________________
+
 ### Can I share a story with a friend?
 
 You share any story you like with your friends:
@@ -71,6 +89,7 @@ You share any story you like with your friends:
 
 ____________________________________________________________________________
 ____________________________________________________________________________
+
 ### How does Revita create exercises based on your chosen story?
 
 - Revita analyzes each story,
@@ -106,6 +125,7 @@ ____________________________________________________________________________
 
 
 ____________________________________________________________________________
+
 ### What is a story's rating?
 
 For each story, Revita tries to estimate its level of difficulty.  The difficulty depends on many factors: on the levels of difficulty of the concepts found in the story, on how difficult/rare the words in the story are, etc.  The story''s rating is used in computing the learner's rating, explained in part here.  
@@ -114,6 +134,7 @@ In the library, the difficulty is marked by one to three stars.
 
 
 ____________________________________________________________________________
+
 ### How are flashcards collected?
 
 Revita creates **Flashcards** for you when you are reading or practicing with a story: any time when you see an unfamiliar word, you can click on it — that will display the word's translation (in a language of your choice), and will also add that word to your deck of flashcards.  The flashcard will contain 3 things:
@@ -131,6 +152,7 @@ You can add new flashcards, edit any flashcard in your deck, and delete any flas
 
 
 ____________________________________________________________________________
+
 ### Why do flashcards have different colors?
 
 Flashcards track how difficult you find words in the vocabulary.  Easier words — whose meaning you know most of the time — have greener color, and more difficult words — which are harder to remember — have redder color, and words in between are yellowish.
@@ -147,6 +169,7 @@ Blue cards are special —
 
 ____________________________________________________________________________
 ____________________________________________________________________________
+
 ### What is a Group?
 
 You can join a group if you are learning with a teacher.  Groups are created by teachers — at a school, a university, private tutors, etc.  A teacher can add her students (and additional teachers) to a group.  The purpose of a group is:
@@ -159,6 +182,7 @@ You can join a group if you are learning with a teacher.  Groups are created by 
 
 
 ____________________________________________________________________________
+
 ### How can I join a group?
 
 Groups are organized by the teacher.  The teacher invites the students to join the group by:
@@ -168,6 +192,7 @@ Groups are organized by the teacher.  The teacher invites the students to join t
 
 
 ____________________________________________________________________________
+
 ### What does my rating mean?
 
 The rating is based on the Élő formlula — it is the method used to rate players in chess and in many on-line games — except here the "players" are the learner and the **exercises**.  Each exercise has a difficulty level, which is its own "rating". 
@@ -206,6 +231,7 @@ Based on your rating, Revita also tries to estimate your CEFR level — a rating
 
 ____________________________________________________________________________
 ____________________________________________________________________________
+
 ### My question is not in this list, whom can I ask?
 
 If you have any questions — or suggestions or comments — please contact the team through the <u>Contact</u> page, or write to the Revita team at  revita@cs.helsinki.fi

@@ -5,17 +5,20 @@ title: FAQ for Teachers
 * Manage Groups:
     * [How can I create a group?](#how-can-i-create-a-group)
     * [How can I add students to a group?](#how-can-i-add-students-to-a-group)
+    * [Can I add stories to group library and hide them from the students for later?](#can-i-add-stories-to-group-library-and-hide-them-from-the-students-for-later)
+    * [Can I copy all stories from my old course into a new course?](#can-i-copy-all-stories-from-my-old-course-into-a-new-course)
 * Manage exercises:
-    * [How does Revita create exercises based on a story?](how-does-revita-create-exercises-based-on-a-story)
+    * [How does Revita create exercises based on a story?](#how-does-revita-create-exercises-based-on-a-story)
+    * [Can I specify exactly which exercises I want in a story?](#can-i-specify-exactly-which-exercises-i-want-in-a-story)
 * Other:
     * [My question is not in this list, whom can I ask?](#my-question-is-not-in-this-list-whom-can-i-ask)
 
 <!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
 
 
+____________________________________________________________________________
+____________________________________________________________________________
 
-____________________________________________________________________________
-____________________________________________________________________________
 ### How can I create a group?
 
 The teacher can create groups for students:
@@ -32,6 +35,7 @@ The teacher can create groups for students:
 
 
 ____________________________________________________________________________
+
 ### How can I add students to a group?
 
 * Go to the Home Page: ⇒  _Groups_ ⇒
@@ -59,7 +63,26 @@ There are two ways to add students:
   
 
 ____________________________________________________________________________
+
+### Can I add stories to group library and hide them from the students for later?
+
+
+1. When sharing a story from Private Library: Click _Share hidden_
+1. After a story has been shared: Go to Group Library ⇒ Select story ⇒ Click on its Title ⇒ Click _Hide story_
+1. Later you can _Unhide story_
+
+
 ____________________________________________________________________________
+
+### Can I copy all stories from my old course into a new course?
+
+* Go to Home Page ⇒ Click _Groups_ ⇒ Select the _new_ group ⇒ Click _Inherit stories_
+* Select from which _old_ group(s) you want to inherit the stories
+* All stories (and flashcards) will be imported into the new group as **hidden** from the students
+
+____________________________________________________________________________
+____________________________________________________________________________
+
 ### How does Revita create exercises based on a story?
 
 - Revita analyzes each story,
@@ -83,6 +106,7 @@ ____________________________________________________________________________
 
 <!---
 ____________________________________________________________________________
+
 ### Как Ревита создает упражнения на основе текста ?
 
 Ревита анализирует каждый тескт, разбивает его на кусочки (примерно 2-3 предложения), и для каждого кусочка создает упражнения, настроенные на уровень ученика:
@@ -99,7 +123,17 @@ ____________________________________________________________________________
 
 
 ____________________________________________________________________________
+
+### Can I specify exactly which exercises I want in a story?
+
+* Choose a story from your Private Library ⇒ Click on its title ⇒ Click _Create Tailored Story_
+* This allows you to specify — for any word or phrase:
+    * Which exercise all students will see,
+    * What hints / feedback they receive.
+    
 ____________________________________________________________________________
+____________________________________________________________________________
+
 ### My question is not in this list, whom can I ask?
 
 If you have any questions — or suggestions or comments — please contact the team through the <u>Contact</u> page, or write to the Revita team at  revita@cs.helsinki.fi
