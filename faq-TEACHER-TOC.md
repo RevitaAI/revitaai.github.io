@@ -5,11 +5,11 @@ title: FAQ for Teachers
 * Manage Groups:
     * [How can I create a group?](#how-can-i-create-a-group)
     * [How can I add students to a group?](#how-can-i-add-students-to-a-group)
-    * [Can I add stories to group library and hide them from the students for later?](#can-i-add-stories-to-group-library-and-hide-them-from-the-students-for-later)
-    * [Can I copy all stories from my old course into a new course?](#can-i-copy-all-stories-from-my-old-course-into-a-new-course)
+    * [Can I hide stories from the students for later?](#can-i-hide-stories-from-the-students-for-later)
+    * [Can I copy stories from my old course into a new course?](#can-i-copy-stories-from-my-old-course-into-a-new-course)
 * Manage exercises:
     * [How does Revita create exercises based on a story?](#how-does-revita-create-exercises-based-on-a-story)
-    * [Can I specify exactly which exercises I want in a story?](#can-i-specify-exactly-which-exercises-i-want-in-a-story)
+    * [Can I decide exactly which exercises I want in a story?](#can-i-decide-exactly-which-exercises-i-want-in-a-story)
 * Other:
     * [My question is not in this list, whom can I ask?](#my-question-is-not-in-this-list-whom-can-i-ask)
 
@@ -64,7 +64,7 @@ There are two ways to add students:
 
 ____________________________________________________________________________
 
-### Can I add stories to group library and hide them from the students for later?
+### Can I hide stories from the students for later?
 
 
 1. When sharing a story from Private Library: Click _Share hidden_
@@ -74,7 +74,7 @@ ____________________________________________________________________________
 
 ____________________________________________________________________________
 
-### Can I copy all stories from my old course into a new course?
+### Can I copy stories from my old course into a new course?
 
 * Go to Home Page ⇒ Click _Groups_ ⇒ Select the _new_ group ⇒ Click _Inherit stories_
 * Select from which _old_ group(s) you want to inherit the stories
@@ -124,7 +124,7 @@ ____________________________________________________________________________
 
 ____________________________________________________________________________
 
-### Can I specify exactly which exercises I want in a story?
+### Can I decide exactly which exercises I want in a story?
 
 * Choose a story from your Private Library ⇒ Click on its title ⇒ Click _Create Tailored Story_
 * This allows you to specify — for any word or phrase:
