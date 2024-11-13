@@ -28,7 +28,3 @@ twitter_url:
 # Build settings
 markdown: kramdown
 
-
-#theme
-highlighter-theme: monokai 
-date_format: "%Y-%M-%D"
