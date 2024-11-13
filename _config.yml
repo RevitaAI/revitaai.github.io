@@ -28,4 +28,4 @@ twitter_url:
 # Build settings
 markdown: kramdown
 
-theme: Cayman
+theme: jekyll-theme-cayman
