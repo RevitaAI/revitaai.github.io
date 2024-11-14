@@ -11,18 +11,18 @@ title: Recent Publications
   - Received [Best Paper Award](https://sigturk.github.io/workshop/\#_awards)
 
 
-- __What do Transformers Know about Government?__
+- __What do Transformers know about government?__
   - Jue Hou, Anisia Katinskaia, Lari Kotilainen, Sathianpong Trangcasanchai, Anh-Duc Vu,
     Roman Yangarber (2024)
   - [LREC-COLING 2024: Joint International Conference on Computational Linguistics, Language Resources and Evaluation](https://lrec-coling-2024.org/)
 
 
-- __Probing the Category of Verbal Aspect in Transformer Language Models__
+- __Probing the category of verbal aspect in transformer language models__
   - Anisia Katinskaia, Roman Yangarber (2024)
   - [NAACL: 2024 Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/)
 
 
-- __GPT-3.5 for Grammatical Error Correction__
+- __GPT-3.5 for grammatical error correction__
   - Anisia Katinskaia, Roman Yangarber (2024)
   - Joint COLING: 30th Conference on Computational Linguistigs and LREC: 14th Conference
   on Linguistic Resources and Evaluation (Torino, Italy)
@@ -32,7 +32,7 @@ title: Recent Publications
 ### Our work on Model Sustainability:
 -->
 
-- __Grammatical Error Correction for Sentence-level Assessment in Language Learning__
+- __Grammatical error correction for sentence-level assessment in language learning__
   - Anisia Katinskaia, Roman Yangarber (2023)
   - BEA: 18th Workshop on building educational applications
   - ACL: 61st Conference of the Association for Computational Linguistics (Toronto)
