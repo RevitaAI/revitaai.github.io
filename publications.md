@@ -6,26 +6,27 @@ title: Recent Publications
 
 - __Intelligent tutor to support teaching and learning of Tatar__
   - Alsu Zakirova, Jue Hou, Anisia Katinskaia, Anh-Duc Vu, Roman Yangarber (2024)
-  - SIGTURK 2024: Workshop on Natural Language Processing for Turkic Languages
-  - ACL: 62nd Conference of the Association for Computational Linguistics (Bangkok)
+  - SIGTURK 2024: Workshop on NLP for Turkic Languages, 
+      at ACL: 62nd ACL Conference (Bangkok)
   - Received [Best Paper Award](https://sigturk.github.io/workshop/\#_awards)
 
 
 - __What do Transformers know about government?__
   - Jue Hou, Anisia Katinskaia, Lari Kotilainen, Sathianpong Trangcasanchai, Anh-Duc Vu,
     Roman Yangarber (2024)
-  - [LREC-COLING 2024: Joint International Conference on Computational Linguistics, Language Resources and Evaluation](https://lrec-coling-2024.org/)
+  - [LREC-COLING: Joint 30th Conference on Computational Linguistics and 14th Conference
+    on Language Resources and Evaluation](https://lrec-coling-2024.org/) (Torino, Italy)
+
+
+- __GPT-3.5 for grammatical error correction__
+  - Anisia Katinskaia, Roman Yangarber (2024)
+  - [LREC-COLING: Joint 30th Conference on Computational Linguistics and 14th Conference
+    on Language Resources and Evaluation](https://lrec-coling-2024.org/) (Torino, Italy)
 
 
 - __Probing the category of verbal aspect in transformer language models__
   - Anisia Katinskaia, Roman Yangarber (2024)
   - [NAACL: 2024 Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/)
-
-
-- __GPT-3.5 for grammatical error correction__
-  - Anisia Katinskaia, Roman Yangarber (2024)
-  - Joint COLING: 30th Conference on Computational Linguistigs and LREC: 14th Conference
-  on Linguistic Resources and Evaluation (Torino, Italy)
 
 
 <!--
@@ -34,8 +35,7 @@ title: Recent Publications
 
 - __Grammatical error correction for sentence-level assessment in language learning__
   - Anisia Katinskaia, Roman Yangarber (2023)
-  - BEA: 18th Workshop on building educational applications
-  - ACL: 61st Conference of the Association for Computational Linguistics (Toronto)
+  - BEA: 18th Workshop on building educational applications, at 61st ACL Conference (Toronto)
   - Received [Outstanding Paper Award](https://sig-edu.org/bea/2023\#schedule)
     
 
@@ -70,4 +70,13 @@ title: Recent Publications
   - Jakub Piskorski, Michał Marcińczuk, Roman Yangarber
   - [LREC-COLING 2024: Joint International Conference on Computational Linguistics, Language Resources and Evaluation](https://lrec-coling-2024.org/)
   - [Updated version on arXiv](https://arxiv.org/abs/2404.00482)
+
+
+  - ACL: 62nd Conference of the Association for Computational Linguistics (Bangkok)
+
+  - [LREC-COLING: Joint Conference on Computational Linguistics, Language Resources and Evaluation](https://lrec-coling-2024.org/)
+
+  - Joint COLING: 30th Conference on Computational Linguistigs and LREC: 14th Conference
+  on Linguistic Resources and Evaluation (Torino, Italy)
+
 -->
