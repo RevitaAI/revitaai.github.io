@@ -32,7 +32,7 @@ title: Project Team
 - [Jouni Rostila](https://researchportal.helsinki.fi/en/persons/jouni-rostila) — University lecturer (UH).  Principal advisor on applied linguistics for  German.
 
 
-## Alumni / alumnae
+## Alumni
 
 
 - Javad Nouri — MS (UH).  Built all components of the original Revita platform.  Initial focus on endangered Finno-Ugric languages, Finnish, Russian.
@@ -45,3 +45,4 @@ title: Project Team
 - Minerva Ciccarese — BA (UH). Support for Italian: government, constructions.
 - Giacomo Furlan — MS (UH, University of Pisa). Support for Italian, deep learning language models for disambiguation.
 - Gert Adamson — MS (UH).  Member of TOSKA, REACT-based front-end, user experience.
+- Ilmari Kylliäinen — MS (UH).  Work with the TOSKA Group: latest in front-end technologies and software engineering, to create a friendly user experience (UX) for learners and teachers.  MS in Language Technology.
