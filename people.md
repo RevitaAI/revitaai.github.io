@@ -29,7 +29,7 @@ title: Project Team
 - Annel Baktybaeva — Head of Linguistics Department (Kazakh National Medical University, Almaty, Kazakhstan). Second language teaching (Russian, Kazakh).
 - Alsu Zakirova — MA student (Higher School of Economics, St Petersburg, Russia).  Support for Tatar: development of linguistic topics, and feedback for learners.
 - Mikhail Zolotilin — MA (UH).  Linguistic resources (Russian).
-- Jouni Rostila — University lecturer (UH).  Principal advisor on applied linguistics for  German.
+- [Jouni Rostila](https://researchportal.helsinki.fi/en/persons/jouni-rostila) — University lecturer (UH).  Principal advisor on applied linguistics for  German.
 
 
 ## Alumni / alumnae
@@ -43,4 +43,5 @@ title: Project Team
 - Sardana Ivanova — PhD (UH).  Support for Russian, Sakha (Yakut).
 - Elena China-Kohlemainen — Master of Arts (UH).  Support for Italian: learning topics and feedback. [MA Thesis (2021) "Computer-Assisted Language Learning based on Authentic Texts: Applications to Italian"](https://helda.helsinki.fi/handle/10138/335693)
 - Minerva Ciccarese — BA (UH). Support for Italian: government, constructions.
+- Giacomo Furlan — MS (UH, University of Pisa). Support for Italian, deep learning language models for disambiguation.
 - Gert Adamson — MS (UH).  Member of TOSKA, REACT-based front-end, user experience.
