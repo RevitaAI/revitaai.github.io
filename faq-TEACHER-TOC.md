@@ -5,7 +5,7 @@ title: FAQ for Teachers
 * Manage Groups:
     * [How can I create a group?](#how-can-i-create-a-group)
     * [How can I add students to a group?](#how-can-i-add-students-to-a-group)
-    * [Can I hide stories from the students for later?](#can-i-hide-stories-from-the-students-for-later)
+    * [Can I hide stories from the students for later use?](#can-i-hide-stories-from-the-students-for-later-use)
     * [Can I copy stories from my old course into a new course?](#can-i-copy-stories-from-my-old-course-into-a-new-course)
 * Manage exercises:
     * [How does Revita create exercises based on a story?](#how-does-revita-create-exercises-based-on-a-story)
@@ -64,7 +64,7 @@ There are two ways to add students:
 
 ____________________________________________________________________________
 
-### Can I hide stories from the students for later?
+### Can I hide stories from the students for later use?
 
 
 1. When sharing a story from Private Library: Click _Share hidden_
@@ -77,8 +77,8 @@ ____________________________________________________________________________
 ### Can I copy stories from my old course into a new course?
 
 * Go to Home Page ⇒ Click _Groups_ ⇒ Select the _new_ group ⇒ Click _Inherit stories_
-* Select from which _old_ group(s) you want to inherit the stories
-* All stories (and flashcards) will be imported into the new group as **hidden** from the students
+* Select _existing_ group(s) from which you want to inherit their libraries
+* All stories (and flashcards) will be imported into the new group, and will apear as **hidden** from the students
 
 ____________________________________________________________________________
 ____________________________________________________________________________
