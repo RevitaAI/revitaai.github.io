@@ -6,3 +6,18 @@ ______________________________________________________________________________
 git clone https://github.com/Relex12/Markdown-Table-of-Contents.git
 
 ./Markdown-Table-of-Contents/toc.py faq.md -o faq-TOC.md 
+
+______________________________________________________________________________
+** Date: Tue Jan  7 19:30 2025 —— PAGES:
+
+- GITHUB repository:
+
+https://github.com/RevitaAI/revitaai.github.io
+
+- project home page
+
+https://revitaai.github.io/
+
+- OLD project home page
+
+https://www.helsinki.fi/en/projects/revita-language-learning-and-ai
