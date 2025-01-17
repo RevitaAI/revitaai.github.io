@@ -15,6 +15,8 @@ title: FAQ for Learners
     - [Why do flashcards have different colors?](#why-do-flashcards-have-different-colors)
     - [What is a story's rating?](#what-is-a-storys-rating)
     - [What does my rating mean?](#what-does-my-rating-mean)
+- Lessons
+    - [How do "Lessons" work?](#how-do-lessons-work)
 - Groups
     - [What is a Group?](#what-is-a-group)
     - [How can I join a group?](#how-can-i-join-a-group)
@@ -26,6 +28,7 @@ title: FAQ for Learners
 
 ____________________________________________________________________________
 ____________________________________________________________________________
+# Registering and Login
 
 ### Why should I register in Revita?
 
@@ -52,6 +55,7 @@ If you've *forgotten your password*, you can always request a form to renew the 
 
 ____________________________________________________________________________
 ____________________________________________________________________________
+# Library
 
 ### Can I upload a deck of flashcards for practice?
 
@@ -89,6 +93,7 @@ You share any story you like with your friends:
 
 ____________________________________________________________________________
 ____________________________________________________________________________
+# Practice
 
 ### How does Revita create exercises based on your chosen story?
 
@@ -169,6 +174,18 @@ Blue cards are special —
 
 ____________________________________________________________________________
 ____________________________________________________________________________
+# Lessons
+
+### How do "Lessons" work?
+
+In "Lessons" view, you can do exercises that focus only on specific grammatical topics.
+In "regular" practice mode, you are working with a complete story / text, snippet by snippet.
+In Lessons, the snippets may come from different texts, but they all focus on the selected grammar topics: e.g., if you want focused practice with verb tenses; or with any other particular grammatical topics(s).
+
+If you are student in a group, you can use the _Group_ (under the "Group" tab) — which are specified by the teacher for the whole group — to do exercises in "lessons" mode.  You can also select  lesson topics yourself — under the "Private" tab.
+____________________________________________________________________________
+____________________________________________________________________________
+# Groups
 
 ### What is a Group?
 
@@ -231,7 +248,8 @@ Based on your rating, Revita also tries to estimate your CEFR level — a rating
 
 ____________________________________________________________________________
 ____________________________________________________________________________
+# Other
 
 ### My question is not in this list, whom can I ask?
 
-If you have any questions — or suggestions or comments — please contact the team through the <u>Contact</u> page, or write to the Revita team at  revita@cs.helsinki.fi
+If you have any questions — or suggestions or comments — please contact the team through the <u>Contact</u> page, or write to the Revita team at [revita@helsinki.fi](mailto:revita@helsinki.fi)

@@ -136,4 +136,4 @@ ____________________________________________________________________________
 
 ### My question is not in this list, whom can I ask?
 
-If you have any questions — or suggestions or comments — please contact the team through the <u>Contact</u> page, or write to the Revita team at  revita@cs.helsinki.fi
+If you have any questions — or suggestions or comments — please contact the team through the <u>Contact</u> page, or write to the Revita team at [revita@helsinki.fi](mailto:revita@helsinki.fi)
