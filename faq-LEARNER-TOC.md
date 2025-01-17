@@ -2,22 +2,22 @@
 title: FAQ for Learners
 ---
 
-- Registering and login
+- [Registering and login](#registering-and-login)
     - [Why should I register in Revita?](#why-should-i-register-in-revita)
     - [How can I change my user name, email or password?](#how-can-i-change-my-user-name-email-or-password)
-- My Library
+- [My Library](#my-Library)
     - [Can I upload a deck of flashcards for practice?](#can-i-upload-a-deck-of-flashcards-for-practice)
     - [Do other people see my stories?](#do-other-people-see-my-stories)
     - [Can I share a story with a friend?](#can-i-share-a-story-with-a-friend)
-- Practice
+- [Practice](#practice)
     - [How does Revita create exercises based on your chosen story?](#how-does-revita-create-exercises-based-on-your-chosen-story)
     - [How are flashcards collected?](#how-are-flashcards-collected)
     - [Why do flashcards have different colors?](#why-do-flashcards-have-different-colors)
     - [What is a story's rating?](#what-is-a-storys-rating)
     - [What does my rating mean?](#what-does-my-rating-mean)
-- Lessons
+- [Lessons](#lessons)
     - [How do "Lessons" work?](#how-do-lessons-work)
-- Groups
+- [Groups](#groups)
     - [What is a Group?](#what-is-a-group)
     - [How can I join a group?](#how-can-i-join-a-group)
 - Other
@@ -28,7 +28,8 @@ title: FAQ for Learners
 
 ____________________________________________________________________________
 ____________________________________________________________________________
-# Registering and Login
+
+## Registering and Login
 
 ### Why should I register in Revita?
 
@@ -55,7 +56,15 @@ If you've *forgotten your password*, you can always request a form to renew the 
 
 ____________________________________________________________________________
 ____________________________________________________________________________
-# Library
+## My Library
+
+### Do other people see my stories?
+
+All stories you upload to your **private library** are visible only to you.  There is no way anyone else can look inside your private library.
+
+You can now [share stories](#can-i-share-a-story-with-a-friend) with your friends — you can choose a particular story and send it to a friend; if the friend accepts it, it will appear in her own private library.
+
+____________________________________________________________________________
 
 ### Can I upload a deck of flashcards for practice?
 
@@ -66,15 +75,6 @@ Yes, uploading flashcards works the same as uploading stories — from a _file_:
     * One or more translations, separated by semicolons
 * Select language into which the cards are translated
 * Click _Upload_
-
-
-____________________________________________________________________________
-
-### Do other people see my stories?
-
-All stories you upload to your **private library** are visible only to you.  There is no way anyone else can look inside your private library.
-
-You can now [share stories](#can-i-share-a-story-with-a-friend) with your friends — you can choose a particular story and send it to a friend; if the friend accepts it, it will appear in her own private library.
 
 
 ____________________________________________________________________________
@@ -93,7 +93,8 @@ You share any story you like with your friends:
 
 ____________________________________________________________________________
 ____________________________________________________________________________
-# Practice
+
+## Practice
 
 ### How does Revita create exercises based on your chosen story?
 
@@ -130,16 +131,6 @@ ____________________________________________________________________________
 
 
 ____________________________________________________________________________
-
-### What is a story's rating?
-
-For each story, Revita tries to estimate its level of difficulty.  The difficulty depends on many factors: on the levels of difficulty of the concepts found in the story, on how difficult/rare the words in the story are, etc.  The story''s rating is used in computing the learner's rating, explained in part here.  
-
-In the library, the difficulty is marked by one to three stars. 
-
-
-____________________________________________________________________________
-
 ### How are flashcards collected?
 
 Revita creates **Flashcards** for you when you are reading or practicing with a story: any time when you see an unfamiliar word, you can click on it — that will display the word's translation (in a language of your choice), and will also add that word to your deck of flashcards.  The flashcard will contain 3 things:
@@ -171,41 +162,13 @@ Blue cards are special —
 * A blue card will appear only once if you know the meaning of the word.
 * If it turns out that in fact you do not know it, your vocabulary esimates take this into account.  Also, the card will enter into your deck (as a red card).
 
-
-____________________________________________________________________________
-____________________________________________________________________________
-# Lessons
-
-### How do "Lessons" work?
-
-In "Lessons" view, you can do exercises that focus only on specific grammatical topics.
-In "regular" practice mode, you are working with a complete story / text, snippet by snippet.
-In Lessons, the snippets may come from different texts, but they all focus on the selected grammar topics: e.g., if you want focused practice with verb tenses; or with any other particular grammatical topics(s).
-
-If you are student in a group, you can use the _Group_ (under the "Group" tab) — which are specified by the teacher for the whole group — to do exercises in "lessons" mode.  You can also select  lesson topics yourself — under the "Private" tab.
-____________________________________________________________________________
-____________________________________________________________________________
-# Groups
-
-### What is a Group?
-
-You can join a group if you are learning with a teacher.  Groups are created by teachers — at a school, a university, private tutors, etc.  A teacher can add her students (and additional teachers) to a group.  The purpose of a group is:
-* Each Group has a Library, where the teacher uploads stories that she recommends as helpful for the students.
-* The teacher can follow how well the students are practicing with the stories.  The teacher can see — for the entire group — which topics the students have mastered, and which are more challenging, so the teacher can plan the lectures better.
-
-(Optional:)
-* The teacher can control the _learning settings_ for all stories in a Group Library — which exercises are enabled.  
-* The teacher also enable <u>Tests</u> — for a fixed period of time.  Tests are available for some languages.
-
-
 ____________________________________________________________________________
 
-### How can I join a group?
+### What is a story's rating?
 
-Groups are organized by the teacher.  The teacher invites the students to join the group by:
+For each story, Revita tries to estimate its level of difficulty.  The difficulty depends on many factors: on the levels of difficulty of the concepts found in the story, on how difficult/rare the words in the story are, etc.  The story''s rating is used in computing the learner's rating, explained in part here.  
 
-* Adding students to the Group — using their email addresses — and sending them invitations.  The student must accept the invitation to join the group.
-* Sharing a secret *key* with the students.  The key allows the student to join the group immediately, no invitation needed.  The key is valid for 30 days; if the student has not joined in 30 days, a new key must be created.  To join a group using a key, go to _Side Bar ⇒ More ⇒ Groups_.
+In the library, the difficulty is marked by one to three stars. 
 
 
 ____________________________________________________________________________
@@ -245,10 +208,49 @@ The idea is that the increase or loss reflects the **expectation** or surprise �
 
 Based on your rating, Revita also tries to estimate your CEFR level — a rating around 1000 is near A1, rating over 2200 is C2, and the rest are in between.  These estimates are approximate, and will be improved over time.
 
+____________________________________________________________________________
+____________________________________________________________________________
+
+## Lessons
+
+### How do "Lessons" work?
+
+In "Lessons" view, you can do exercises that focus only on specific grammatical topics.
+In "regular" practice mode, you are working with a complete story / text, snippet by snippet.
+In Lessons, the snippets may come from different texts, but they all focus on the selected grammar topics: e.g., if you want focused practice with verb tenses; or with any other particular grammatical topics(s).
+
+If you are student in a group, you can use the _Group_ (under the "Group" tab) — which are specified by the teacher for the whole group — to do exercises in "lessons" mode.  You can also select  lesson topics yourself — under the "Private" tab.
 
 ____________________________________________________________________________
 ____________________________________________________________________________
-# Other
+
+# Groups
+
+### What is a Group?
+
+You can join a group if you are learning with a teacher.  Groups are created by teachers — at a school, a university, private tutors, etc.  A teacher can add her students (and additional teachers) to a group.  The purpose of a group is:
+* Each Group has a Library, where the teacher uploads stories that she recommends as helpful for the students.
+* The teacher can follow how well the students are practicing with the stories.  The teacher can see — for the entire group — which topics the students have mastered, and which are more challenging, so the teacher can plan the lectures better.
+
+(Optional:)
+* The teacher can control the _learning settings_ for all stories in a Group Library — which exercises are enabled.  
+* The teacher also enable <u>Tests</u> — for a fixed period of time.  Tests are available for some languages.
+
+
+____________________________________________________________________________
+
+### How can I join a group?
+
+Groups are organized by the teacher.  The teacher invites the students to join the group by:
+
+* Adding students to the Group — using their email addresses — and sending them invitations.  The student must accept the invitation to join the group.
+* Sharing a secret *key* with the students.  The key allows the student to join the group immediately, no invitation needed.  The key is valid for 30 days; if the student has not joined in 30 days, a new key must be created.  To join a group using a key, go to _Side Bar ⇒ More ⇒ Groups_.
+
+
+____________________________________________________________________________
+____________________________________________________________________________
+
+## Other
 
 ### My question is not in this list, whom can I ask?
 
