@@ -5,7 +5,7 @@ title: FAQ for Learners
 - [Registering and login](#registering-and-login)
     - [Why should I register in Revita?](#why-should-i-register-in-revita)
     - [How can I change my user name, email or password?](#how-can-i-change-my-user-name-email-or-password)
-- [My Library](#my-Library)
+- [My Library](#my-library)
     - [Can I upload a deck of flashcards for practice?](#can-i-upload-a-deck-of-flashcards-for-practice)
     - [Do other people see my stories?](#do-other-people-see-my-stories)
     - [Can I share a story with a friend?](#can-i-share-a-story-with-a-friend)
@@ -20,7 +20,7 @@ title: FAQ for Learners
 - [Groups](#groups)
     - [What is a Group?](#what-is-a-group)
     - [How can I join a group?](#how-can-i-join-a-group)
-- Other
+- [Other](#other)
     - [My question is not in this list, whom can I ask?](#my-question-is-not-in-this-list-whom-can-i-ask)
 
 <!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
@@ -224,7 +224,7 @@ If you are student in a group, you can use the _Group_ (under the "Group" tab) â
 ____________________________________________________________________________
 ____________________________________________________________________________
 
-# Groups
+## Groups
 
 ### What is a Group?
 
