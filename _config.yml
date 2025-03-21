@@ -1,7 +1,7 @@
 # Site settings
 title: REVITA 
 subtitle: Learning from stories
-email: revita@cs.helsinki.fi
+email: revita@helsinki.fi
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -16,7 +16,7 @@ phone:
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/KNOW-AI-UH
+github_url: https://github.com/revitaAI
 gitlab_url: 
 googleplus_url: 
 instagram_url: 
@@ -28,7 +28,4 @@ twitter_url:
 # Build settings
 markdown: kramdown
 
-
-#theme
-highlighter-theme: monokai 
-date_format: "%Y-%M-%D"
+theme: jekyll-theme-cayman
