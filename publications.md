@@ -5,7 +5,7 @@ title: Recent Publications
 ### AI for language teaching and learning:
 
 - __A Bayesian Approach to Inferring Prerequisite Structures and Topic Difficulty in Language Learning__
-  - Anh-Duc Vu, Jue Hou, Anisia Katinskaia, Roman Yangarber (2024)
+  - Anh-Duc Vu, Jue Hou, Anisia Katinskaia, Roman Yangarber (2025)
   - BEA: 20th Workshop on building educational applications, at 62st ACL Conference (Vienna, Austria)
   - Received [__Best Paper Award__](https://sig-edu.org/bea/2025#accepted-papers)
 
