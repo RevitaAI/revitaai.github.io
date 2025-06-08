@@ -4,9 +4,15 @@ title: Recent Publications
 
 ### Our work on AI for language learning:
 
+- __A Bayesian Approach to Inferring Prerequisite Structures and Topic Difficulty in Language Learning__
+  - Anh-Duc Vu, Jue Hou, Anisia Katinskaia, Roman Yangarber (2024)
+  - BEA: 20th Workshop on building educational applications, at 62st ACL Conference (Vienna, Austria)
+  - Received [__Best Paper Award__](https://sig-edu.org/bea/2025#accepted-papers)
+
+
 - __Intelligent tutor to support teaching and learning of Tatar__
   - Alsu Zakirova, Jue Hou, Anisia Katinskaia, Anh-Duc Vu, Roman Yangarber (2024)
-  - SIGTURK 2024: Workshop on NLP for Turkic Languages, at 62nd ACL Conference (Bangkok)
+  - SIGTURK 2024: Workshop on NLP for Turkic Languages, at 62nd ACL Conference (Bangkok, Thailand)
   - Received [__Best Paper Award__](https://sigturk.github.io/workshop/\#_awards)
 
 
@@ -34,7 +40,7 @@ title: Recent Publications
 
 - __Grammatical error correction for sentence-level assessment in language learning__
   - Anisia Katinskaia, Roman Yangarber (2023)
-  - BEA: 18th Workshop on building educational applications, at 61st ACL Conference (Toronto)
+  - BEA: 18th Workshop on building educational applications, at 61st ACL Conference (Toronto, Canada)
   - Received [__Outstanding Paper Award__](https://sig-edu.org/bea/2023\#schedule)
     
 
