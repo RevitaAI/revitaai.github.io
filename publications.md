@@ -6,19 +6,19 @@ title: Recent Publications
 
 - __A Bayesian Approach to Inferring Prerequisite Structures and Topic Difficulty in Language Learning__
   - Anh-Duc Vu, Jue Hou, Anisia Katinskaia, Roman Yangarber (2025)
-  - BEA: 20th Workshop on building educational applications, at 62st ACL Conference (Vienna, Austria)
-  - Received [__<font color="purple">Best Paper Award</font>__](https://sig-edu.org/bea/2025#accepted-papers)
+  - BEA: 20th Workshop on building educational applications, at 62nd ACL Conference (Vienna, Austria)
+  - <font color="purple">Received [__Best Paper Award__](https://sig-edu.org/bea/2025#accepted-papers)</font>
 
 
 - __Estimation of Text Difficulty in the Context of Language Learning__
   - Anisia Katinskaia, Anh-Duc Vu, Jue Hou, Yiheng Wu Roman Yangarber (2025)
-  - [BEA: 20th Workshop on building educational applications, at 62st ACL Conference ](https://sig-edu.org/bea/2025#accepted-papers) (Vienna, Austria)
+  - [BEA: 20th Workshop on building educational applications, at 62nd ACL Conference ](https://sig-edu.org/bea/2025#accepted-papers) (Vienna, Austria)
 
 
 - __Intelligent tutor to support teaching and learning of Tatar__
   - Alsu Zakirova, Jue Hou, Anisia Katinskaia, Anh-Duc Vu, Roman Yangarber (2024)
   - SIGTURK 2024: Workshop on NLP for Turkic Languages, at 62nd ACL Conference (Bangkok, Thailand)
-  - Received [__<font color="purple">Best Paper Award</font>__](https://sigturk.github.io/workshop/\#_awards)
+  - <font color="purple">Received [__Best Paper Award__](https://sigturk.github.io/workshop/\#_awards)</font>
 
 
 - __What do Transformers know about government?__
@@ -46,7 +46,7 @@ title: Recent Publications
 - __Grammatical error correction for sentence-level assessment in language learning__
   - Anisia Katinskaia, Roman Yangarber (2023)
   - BEA: 18th Workshop on building educational applications, at 61st ACL Conference (Toronto, Canada)
-  - Received [__<font color="purple">Outstanding  Paper Award</font>__](https://sig-edu.org/bea/2023\#schedule)
+  - <font color="purple">Received [__Outstanding  Paper Award__](https://sig-edu.org/bea/2023\#schedule)</font>
     
 
 - __Effects of sub-word segmentation on performance of transformer language models__
@@ -74,7 +74,7 @@ title: Recent Publications
 - __Digital cultural heritage and revitalization of endangered Finno-Ugric languages__
   - Anisia Katinskaia, Roman Yangarber (July 2018)
   - DHN: 3rd Conference on Digital Humanities in the Nordic Countries (Helsinki, Finland)
-  - Received [__<font color="purple">Best Paper Award and Open Science Award</font>__](https://www.helsinki.fi/en/digital-humanities/dhn-2018)
+  - <font color="purple">Received [__Best Paper Award and Open Science Award__](https://www.helsinki.fi/en/digital-humanities/dhn-2018)</font>
 
 
 
