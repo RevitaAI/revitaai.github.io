@@ -2,7 +2,7 @@
 title: Recent Publications
 ---
 
-### Our work on AI for language learning:
+### AI for language teaching and learning:
 
 - __A Bayesian Approach to Inferring Prerequisite Structures and Topic Difficulty in Language Learning__
   - Anh-Duc Vu, Jue Hou, Anisia Katinskaia, Roman Yangarber (2024)
@@ -71,6 +71,16 @@ title: Recent Publications
   - LREC: 13th Conference on Linguistic Resources and Evaluation (Marseille, France)
 
 
+- __Digital cultural heritage and revitalization of endangered Finno-Ugric languages__
+  - Anisia Katinskaia, Roman Yangarber (July 2018)
+  - DHN: 3rd Conference on Digital Humanities in the Nordic Countries (Helsinki, Finland)
+  - Received [__Best Paper Award and Open Science Award__](https://www.helsinki.fi/en/digital-humanities/dhn-2018)
+
+
+
+- __Revita: a language-learning platform at the intersection of ITS and CALL__
+  - Anisia Katinskaia, Javad Nouri, Roman Yangarber (July 2018)
+  - LREC: 11th Conference on Linguistic Resources and Evaluation (Miyazaki, Japan)
 
 
 <!--
