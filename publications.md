@@ -10,6 +10,11 @@ title: Recent Publications
   - Received [__Best Paper Award__](https://sig-edu.org/bea/2025#accepted-papers)
 
 
+- __Estimation of Text Difficulty in the Context of Language Learning__
+  - Anisia Katinskaia, Anh-Duc Vu, Jue Hou, Yiheng Wu Roman Yangarber (2025)
+  - [BEA: 20th Workshop on building educational applications, at 62st ACL Conference ](https://sig-edu.org/bea/2025#accepted-papers) (Vienna, Austria)
+
+
 - __Intelligent tutor to support teaching and learning of Tatar__
   - Alsu Zakirova, Jue Hou, Anisia Katinskaia, Anh-Duc Vu, Roman Yangarber (2024)
   - SIGTURK 2024: Workshop on NLP for Turkic Languages, at 62nd ACL Conference (Bangkok, Thailand)
