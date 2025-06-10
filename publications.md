@@ -7,7 +7,7 @@ title: Recent Publications
 - __A Bayesian Approach to Inferring Prerequisite Structures and Topic Difficulty in Language Learning__
   - Anh-Duc Vu, Jue Hou, Anisia Katinskaia, Roman Yangarber (2025)
   - BEA: 20th Workshop on building educational applications, at 62nd ACL Conference (Vienna, Austria)
-  - <font color="purple">Received</font> [__<font color="purple">Best Paper Award</font>__](https://sig-edu.org/bea/2025#accepted-papers)
+  - Received [__<font color="purple">Best Paper Award</font>__](https://sig-edu.org/bea/2025#accepted-papers)
 
 
 - __Estimation of Text Difficulty in the Context of Language Learning__
@@ -18,7 +18,7 @@ title: Recent Publications
 - __Intelligent tutor to support teaching and learning of Tatar__
   - Alsu Zakirova, Jue Hou, Anisia Katinskaia, Anh-Duc Vu, Roman Yangarber (2024)
   - SIGTURK 2024: Workshop on NLP for Turkic Languages, at 62nd ACL Conference (Bangkok, Thailand)
-  - <font color="purple">Received</font> [__<font color="purple">Best Paper Award</font>__](https://sigturk.github.io/workshop/\#_awards)
+  - Received [__<font color="purple">Best Paper Award</font>__](https://sigturk.github.io/workshop/\#_awards)
 
 
 - __What do Transformers know about government?__
@@ -46,7 +46,7 @@ title: Recent Publications
 - __Grammatical error correction for sentence-level assessment in language learning__
   - Anisia Katinskaia, Roman Yangarber (2023)
   - BEA: 18th Workshop on building educational applications, at 61st ACL Conference (Toronto, Canada)
-  - <font color="purple">Received</font> [__<font color="purple">Outstanding  Paper Award</font>__](https://sig-edu.org/bea/2023\#schedule)
+  - Received [__<font color="purple">Outstanding  Paper Award</font>__](https://sig-edu.org/bea/2023\#schedule)
     
 
 - __Effects of sub-word segmentation on performance of transformer language models__
@@ -74,7 +74,7 @@ title: Recent Publications
 - __Digital cultural heritage and revitalization of endangered Finno-Ugric languages__
   - Anisia Katinskaia, Roman Yangarber (July 2018)
   - DHN: 3rd Conference on Digital Humanities in the Nordic Countries (Helsinki, Finland)
-  - <font color="purple">Received</font> [__<font color="purple">Best Paper Award and Open Science Award</font>__](https://www.helsinki.fi/en/digital-humanities/dhn-2018)
+  - Received [__<font color="purple">Best Paper Award and Open Science Award</font>__](https://www.helsinki.fi/en/digital-humanities/dhn-2018)
 
 
 
