@@ -6,13 +6,13 @@ title: Recent Publications
 
 - __A Bayesian Approach to Inferring Prerequisite Structures and Topic Difficulty in Language Learning__
   - Anh-Duc Vu, Jue Hou, Anisia Katinskaia, Roman Yangarber (2025)
-  - BEA: 20th Workshop on building educational applications, at 62nd ACL Conference (Vienna, Austria)
+  - [BEA: 20th Workshop on building educational applications](https://sig-edu.org/bea/2025#accepted-papers), at 62nd ACL Conference (Vienna, Austria)
   - Received [__<font color="purple">Best Paper Award</font>__](https://sig-edu.org/bea/2025#accepted-papers)
 
 
 - __Estimation of Text Difficulty in the Context of Language Learning__
   - Anisia Katinskaia, Anh-Duc Vu, Jue Hou, Yiheng Wu Roman Yangarber (2025)
-  - [BEA: 20th Workshop on building educational applications, at 62nd ACL Conference ](https://sig-edu.org/bea/2025#accepted-papers) (Vienna, Austria)
+  - [BEA: 20th Workshop on building educational applications](https://sig-edu.org/bea/2025#accepted-papers), at 62nd ACL Conference (Vienna, Austria)
 
 
 - __Intelligent tutor to support teaching and learning of Tatar__
