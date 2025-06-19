@@ -2,29 +2,40 @@
 title: Research
 ---
 
-## Knowledge-Aware and Retrieval-Augmented Language Models
+## AI-based language teaching
 
-The project aims at developing large-scale algorithms for highly-multilingual media monitoring that will produce reliable real-time alerts on an open set of event types indicating global threats—including:
-- pandemic outbreaks,
-- terrorist attacks,
-- socio-political unrest,
-- human trafficking, smuggling of arms,
-- natural and man-made disasters,
-- etc.
+The Revita project aims at developing state-of-the-art tools for language teaching, to assist learners and teachers:
+- for learners:
+  - personalized learning — exercises are tailored exactly for each learner, based on prior performance,
+  - exercises based on _arbitrary, authentic_ texts, chosen by the learner (or by the teacher),
+  - immediate assistance with any topic or any problem,
+  - continual assessment, to make sure that the exercises fit optimally to the learner's current level of skills
+- for teachers:
+  - manage heterogeneous groups of learners,
+  - prepare learning content and materials for the students,
+  - continual assessment of the learners' performance — individual and as a group,
+  
 
-### Objectives
+## AI research challenges
 
-The objectives in this theme are:
-1. We pursue a highly timely and topical application: designing state-of-the-art large language models (LLMs) for detecting events in the context of global social threats, with clear societal impacts.
-2. We explore fundamental problems in LLMs—in the context of this application, namely: model explainability, confidence, and sustainability.
+We address these objectives by work in these areas:
+- fundamental problems in language analysis on all levels — morphology, syntax, semantics, etc,
+- student modeling — psychometrics, Item-Response Theory (IRT), Knowledge Space Theory, etc,
+- language modeling,
+- question answering and question generation,
+- grammatical error detection and correction,
+- translation,
+- development and use of linguistic resources,
+- software engineering — user experience, gamification.
 
-LLMs offer unparalleled quality of analysis, but are trained on "legacy" data, which — by construction — is not up-to-date.  We explore how the LLM can draw on external knowledge bases and live media streams — which _are_ up-to-date.
-To achieve these goals, we leverage High Performance Computing (HPC) to build and refine LLM methodologies, and a critical mass of international collaboration, with collaborators who bring complementary expertise and resources.
+In addition to learning "major" languages, Revita works on revitalization of smaller endangered languages.  Initial focus was on endangered Finno-Ugric languages, and Turkic languages.  In the context of endangered languages we also work on low-resource language technology.
 
 
+Rapidly advancing deep-learning technology opens new possibilities for more effective language teaching and learning.
+
+<!--
 ## Detecting Propaganda and Persuasion Techniques in Media
-
-Advancing technology opens vast possibilities to easily create communication channels between information producers and consumers.
+to easily create communication channels between information producers and consumers.
 This creates the potential to expose the latter to _deceptive_ content and _mass manipulation_.
 Huge audiences are affected online, and major crisis events are subjected to the spread of harmful disinformation and propaganda.
 
@@ -33,3 +44,4 @@ The goal is to identify what methods the propaganda is using, and what kind of h
 
 ## Seminar
 ...
+-->
