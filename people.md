@@ -17,28 +17,29 @@ title: Project Team
 ## Collaborators
 
 - [Lari Kotilainen](https://researchportal.helsinki.fi/fi/persons/lari-kotilainen) — Professor, Department of Finnish (UH)
-  - [Kielibuusti Project](https://kielibuusti.fi/en), principal advisor on applied linguistics (Finnish).
+  - [Kielibuusti Project](https://kielibuusti.fi/en), advisor on applied linguistics (Finnish).
 - [Mikhail Kopotev](https://researchportal.helsinki.fi/fi/persons/mikhail-kopotev) — Senior Lecturer, Department of Modern Languages (UH)
-   - principal advisor on applied linguistics (Russian).
+   - advisor on applied linguistics (Russian).
 - [Matti Luukkainen](https://www.helsinki.fi/en/people/people-finder/matti-luukkainen-9021313) — University lecturer (UH)
-  - Leads the TOSKA Reseach Group.  Principal advisor on best practices for Software Engineering, web development and User Experience.  Supervise Gert Adamson, Atte Haarni, Esa Kemppainen, Jami Kousa, Ilmari Kylliäinen, Tero Tapio, and other TOSKA members, who have made substantial contributions.
+  - leads the TOSKA Group; principal advisor on best practices for Software Engineering, web development and User Experience.  Supervising Gert Adamson, Atte Haarni, Esa Kemppainen, Jami Kousa, Ilmari Kylliäinen, Tero Tapio, and other TOSKA members, who have made substantial contributions.
 - Jouko Ahvenainen — (London, UK)
-   - Advisor on user-centric approaches in artificial intelligence.
+   - advisor on user-centric approaches in artificial intelligence.
 - [Maria Lebedeva](https://www.pushkin.institute/sveden/employees/detail.php?ELEMENT_ID=4096) — (Pushkin Institute, Moscow).
-  - Longitudinal studies (Russian)
+  - longitudinal studies with students (Russian)
 - Vesna Hendry, Tommaso Furlan — (Udine, Italy)
-  - Design of user interface, user experience.
+  - design of user interface, user experience.
 - [Mikhail Mikhailov](https://www.tuni.fi/en/mikhail-mikhailov) — professor (Translation Studies, Tampere University, Finland)
-  - Studies with university learners (Finnish and Russian).
+  - studies with university learners (Finnish and Russian).
 - [Nataliya Stoyanova](https://docenti.unicatt.it/ppd2/it/docenti/27572/nataliya-stoyanova/profilo) — associate professor (Catholic University, Milan, Italy)
-  - Principal advisor on applied linguistics: studies with university learners (Russian).
+  - advisor on applied linguistics: studies with university students (Russian).
 - [Laila Paracchini](https://www.unimi.it/en/ugov/person/laila-paracchini) — PhD, Research Fellow, Department of Foreign Languages and Literatures (State University of Milan, Italy)
-  - Principal advisor on Russian: studies with university learners (Russian).
+  - advisor on Russian: studies with university students (Russian).
 - Annel Baktybaeva — Head of Linguistics Department (Kazakh National Medical University, Almaty, Kazakhstan)
-  - Second-language teaching (Russian, Kazakh).
-- Alsu Zakirova — MA student (Higher School of Economics, St Petersburg, Russia)
- - Support for Tatar: development of linguistic topics, and feedback for learners.
-- Mikhail Zolotilin — MA (UH).  Linguistic resources (Russian).
+  - second-language teaching (Russian, Kazakh).
+- Alsu Zakirova — MA (Higher School of Economics, St Petersburg, Russia)
+  - support for Tatar: development of linguistic topics, feedback for students.
+- Mikhail Zolotilin — MA (UH).  
+  - Linguistic resources (Russian).
 - [Jouni Rostila](https://researchportal.helsinki.fi/en/persons/jouni-rostila) — University lecturer (UH).  
   - Principal advisor on applied linguistics for German.
 
@@ -47,24 +48,24 @@ title: Project Team
 
 
 - Javad Nouri — MS (UH)
-  - Built all components of the original Revita platform.  Initial focus on endangered Finno-Ugric languages, Finnish, Russian.
+  - built all components of the original Revita platform. Focus on endangered Finno-Ugric languages, Finnish, Russian.
 - Kim Salmi — MS (UH)
-  - Front-end and back-end of the early platform.
+  - front-end and back-end of the early platform.
 - José María (Txema) Hoya Quecedo — MS (UH)
-  - Core support cross-language handling of morphological and syntactic analysis.  Models of ambiguity and disambiguation.  Initial support for Romance languages (β).
+  - support cross-language handling of morphological and syntactic analysis.  Models for disambiguation.  Support for Romance languages (β).
 - Max Koppatz — MS (UH)
-  - Improvements to the language-analysis layer and exercise selection.   Deep-learning language modeling, work on Finnish, Swedish and German (β).
+  - the language-analysis layer and exercise selection.   Deep-learning language modeling, work on Finnish, Swedish and German (β).
 <!-- - Tomi Rikander — MS Student.  Front-end improvements and re-engineering. -->
 - Sardana Ivanova — PhD (UH)
-  - Support for Russian, Sakha (Yakut).
+  - support for Russian, Sakha (Yakut).
 - Elena China-Kohlemainen — Master of Arts (UH)
-  - Support for Italian: learning topics and feedback
+  - support for Italian: learning topics and feedback
   - [MA Thesis (2021) "Computer-Assisted Language Learning based on Authentic Texts: Applications to Italian"](https://helda.helsinki.fi/handle/10138/335693)
 - Minerva Ciccarese — BA (UH)
-  - Support for Italian: government, constructions.
+  - support for Italian: government, constructions.
 - Giacomo Furlan — MS (UH, University of Pisa)
-  - Support for Italian, deep learning language models for disambiguation.
+  - support for Italian, deep learning language models for disambiguation.
 - Gert Adamson — MS (UH)
-  - Member of TOSKA, REACT-based front-end, user experience.
+  - member of TOSKA, REACT-based front-end, user experience.
 - Ilmari Kylliäinen — MS in Language Technology (UH)
-  - Work with the TOSKA Group: latest in front-end technologies and software engineering, to create a friendly user experience (UX) for learners and teachers.
+  - work with the TOSKA Group: front-end technologies and software engineering, to create a friendly user experience (UX) for learners and teachers.
