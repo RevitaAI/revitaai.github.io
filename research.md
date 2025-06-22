@@ -12,26 +12,26 @@ The Revita project aims at developing state-of-the-art tools for language teachi
   - continual assessment, to make sure that the exercises fit optimally to the learner's current level of skills
 - for teachers:
   - manage heterogeneous groups of learners,
-  - prepare learning content and materials for the students,
-  - continual assessment of the learners' performance — individual and as a group,
+  - provide learning content and materials for the students optimally suited to their level,
+  - continual assessment of each learner's performance — individual, and as a group.
   
 
 ## AI research challenges
 
-We address these objectives by work in these areas:
-- fundamental problems in language analysis on all levels — morphology, syntax, semantics, etc,
-- student modeling — psychometrics, Item-Response Theory (IRT), Knowledge Space Theory, etc,
+We address these objectives through research in a large number of areas in language technology, including:
+- fundamental problems in language analysis, on all levels — morphology, syntax, semantics, etc.,
+- student modeling and psychometrics — Item-Response Theory (IRT), Knowledge Space Theory, etc.,
 - language modeling,
 - question answering and question generation,
-- grammatical error detection and correction,
+- grammatical error detection and error correction,
 - translation,
 - development and use of linguistic resources,
 - software engineering — user experience, gamification.
 
-In addition to learning "major" languages, Revita works on revitalization of smaller endangered languages.  Initial focus was on endangered Finno-Ugric languages, and Turkic languages.  In the context of endangered languages we also work on low-resource language technology.
-
 
 Rapidly advancing deep-learning technology opens new possibilities for more effective language teaching and learning.
+In addition to learning "major" languages, Revita works on revitalization of smaller endangered languages.  Initial focus was on endangered Finno-Ugric languages, and Turkic languages.  In the context of endangered languages we also work on low-resource language technology.
+
 
 <!--
 ## Detecting Propaganda and Persuasion Techniques in Media
