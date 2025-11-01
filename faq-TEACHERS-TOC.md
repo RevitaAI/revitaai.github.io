@@ -1,4 +1,3 @@
-
 ---
 title: FAQ for Teachers
 ---
@@ -10,6 +9,7 @@ title: FAQ for Teachers
   - [How can I as a teacher get special rights to register students in my university into my groups?](#how-can-i-as-a-teacher-get-special-rights-to-register-students-in-my-university-into-my-groups)
   - [Can I copy stories from my old course into a new course?](#can-i-copy-stories-from-my-old-course-into-a-new-course)
   - [Can I hide stories from the students for later use?](#can-i-hide-stories-from-the-students-for-later-use)
+- [Exercises based on stories](#exercises-based-on-stories)
   - [How does Revita create exercises based on a story?](#how-does-revita-create-exercises-based-on-a-story)
   - [Can I decide exactly which exercises I want in a story?](#can-i-decide-exactly-which-exercises-i-want-in-a-story)
 
@@ -27,14 +27,15 @@ ____________________________________________________________________________
 
 The teacher can create groups for students:
 
-* Go to the Home Page:  _Groups_ ⇒  _Create New Group_ ⇒
+* Go to the Home Page: Click _Groups_ ⇒  Click _Create New Group_ ⇒
 * Add the name of the group, and a short description (optional).
     * You can enter a list of student emails into the same form.  You can attach additional teachers to the Group.
 * Click _Create_
-* Once the group is created:
+* After the group is created:
     * The Group Library will appear.  The teacher can **share** stories from the Private Library to the Group Library.
-    * The teacher can follow the performance of the students by going to ⇒ _Analytics_.
-    * The teacher can [add students to the Group](#how-can-i-add-students-to-a-group).
+    * The teacher can follow the performance of the students by going to ⇒ Click _Analytics_.
+    * The teacher can [add students to the Group](#how-can-i-add-students-to-a-group) or
+      teachers and remove students or teachers from the group.
 
 
 ____________________________________________________________________________
@@ -42,7 +43,7 @@ ____________________________________________________________________________
 
 ### How can I add students to a group?
 
-* Go to the Home Page: ⇒  _Groups_ ⇒
+* Go to the Home Page: ⇒  Click _Groups_ ⇒
 * Select the group from your list of groups ⇒ click on its Title ⇒
 
 There are two ways to add students:
@@ -51,7 +52,8 @@ There are two ways to add students:
     * Add student emails
     * Each student will receive an email, asking them to join:
         * If student was already registered, she gets invitation to join group in an email.<!--- (unless teacher is MASTER-OF-DOMAIN...) --->
-        * If the student was not already registered in Revita, she becomes registered, and receives an email with her new username and password. (She can change the password any time after logging in.)
+        * If the student was not already registered in Revita, she becomes registered, and
+          receives an email with her new username and password. (The student can change the password any time after logging in.)
 1. If the teacher _does not know the email addresses_ of the students:
     * Go to the Group ⇒ click on _Show Key_
     * Copy and post the Group Key in a place where the students can pick it up — e.g., on the web site of a course.
@@ -103,22 +105,23 @@ ____________________________________________________________________________
 
 
 ____________________________________________________________________________
-
+____________________________________________________________________________
+## Exercises based on stories
 
 ### How does Revita create exercises based on a story?
 
 - Revita analyzes each story,
-- Divides it into snippets (2-3 sentences each),
-- For each snippet, creates exercises that match the level of the learner:
-    - Words and phrases in the story are linked to grammatical topics that the learner needs to master.
-    - The map of the topics can be seen by going to the Home Page ⇒ Progress ⇒ Grammar Progress
-    - Revita selects which grammatical topics are best suited to the learner's current level.
-    - Learner's level is evaluated based on all preceding answers to exercises: which topics the learner finds easy / difficult.
+- It divides the story into **snippets** (2-3 sentences each),
+- For each snippet, it creates exercises:
+    - Words and phrases in the story are linked to grammatical topics that learners need to master.
+    - The menu of topics can be seen by going to the Home Page ⇒ Click _Progress_ ⇒ Click _Grammar Progress_
+    - Revita selects which grammatical topics are best suited for each learner's current level.
+    - Learner's level is estimated based on all preceding answers to exercises: which topics the learner finds easy / difficult.
 - Revita tries to select exercises that match the learner's level:
-    - if exercises are often too easy — the learner will become bored,
-    - if exercises are often too difficult — the learner will become frustrated,
-- in either case — she will quit practicing. Thus it is very important to find the right level of difficulty, though sometimes there may be an easy or a difficult exercise.
-- Exercises are selected at random, so each time you work with a story, the exercises will be different.
+    - if exercises are often too easy — the learner would become bored,
+    - if exercises are often too difficult — the learner would become frustrated,
+- in either case — the learner will quit practicing.  Thus it is very important to find exactly the _right level of difficulty_.  Sometimes there may be an easy or a difficult exercise.
+- Exercises are selected at random, so each time the student works with a story, the exercises will be different.
 
 
 ____________________________________________________________________________
@@ -126,13 +129,10 @@ ____________________________________________________________________________
 
 ### Can I decide exactly which exercises I want in a story?
 
+Yes, you can create _Tailored Stories_:
 * Choose a story from your Private Library ⇒ Click on its title ⇒ Click _Create Tailored Story_
-* This allows you to specify — for any word or phrase:
-    * Which exercise all students will see,
-    * What hints / feedback they receive.
+* This allows you to specify — for any word or phrase in the story:
+    * Which exercise _all_ students in the group will see,
+    * What hints and feedback they receive.
 This feature allows the teacher to have **full control** over what exercises all students will see.
-However, this feature is not recommended for extensive use — because it is more labor-intensive for the teacher, and it is easier to rely on Revita to offer appropriate exercises for **each** student — based on the student's performance: concepts which the student is not ready to learn will appear in exercises less frequently, as well as concepts that the student has already mastered.  The concepts that will appear more frequently are those that the student is most ready to learn next — based on the student's performance on recent exercises.
-
-
-
-
+However, this feature is not recommended for extensive use — it is more labor-intensive for the teacher.  It is easier to rely on Revita to offer appropriate exercises for **each** student — based on the student's previous performance: concepts which the student is not ready to learn will appear in exercises less frequently, as well as concepts that the student has already mastered.  The concepts that will appear more frequently are those that the student is most ready to learn next — based on the student's performance on recent exercises.
