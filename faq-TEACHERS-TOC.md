@@ -134,5 +134,6 @@ Yes, you can create _Tailored Stories_:
 * This allows you to specify — for any word or phrase in the story:
     * Which exercise _all_ students in the group will see,
     * What hints and feedback they receive.
+
 This feature allows the teacher to have **full control** over what exercises all students will see.
 However, this feature is not recommended for extensive use — it is more labor-intensive for the teacher.  It is easier to rely on Revita to offer appropriate exercises for **each** student — based on the student's previous performance: concepts which the student is not ready to learn will appear in exercises less frequently, as well as concepts that the student has already mastered.  The concepts that will appear more frequently are those that the student is most ready to learn next — based on the student's performance on recent exercises.
