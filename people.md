@@ -32,7 +32,7 @@ title: Project Team
   - studies with university learners (Finnish and Russian).
 - [Nataliya Stoyanova](https://docenti.unicatt.it/ppd2/it/docenti/27572/nataliya-stoyanova/profilo) — associate professor (Catholic University, Milan, Italy)
   - advisor on applied linguistics: studies with university students (Russian).
-- [Laila Paracchini](https://www.unimi.it/en/ugov/person/laila-paracchini) — associate professor, Department of Foreign Languages and Literatures (State University of Milan, Italy)
+- [Laila Paracchini](https://www.unimi.it/en/ugov/person/laila-paracchini) — associate professor, Department of Foreign Languages, Literatures, Cultures and Mediations (State University of Milan, Italy)
   - advisor on Russian: studies with university students (Russian).
 - Annel Baktybaeva — Head of Linguistics Department (Kazakh National Medical University, Almaty, Kazakhstan)
   - second-language teaching (Russian, Kazakh).
