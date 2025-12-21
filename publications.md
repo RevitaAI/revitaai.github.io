@@ -16,9 +16,16 @@ title: Press and Publications
   - Received [__<font color="purple">Best Paper Award</font>__](https://sig-edu.org/bea/2025#accepted-papers)
 
 
+- __[AI-assisted second-language teaching and learning in the Zone of Proximal Development](https://www.altaanz.org/4_sila_14_2__hou-et-al.html)__
+  - Jue Hou, Anh-Duc Vu, Anisia Katinskaia, Roman Yangarber (2025)
+  - [Studies in Language Assessment (SiLA) 14(2)](https://arts.unimelb.edu.au/language-testing-research-centre/research/publications/sila/current-issue) (Melbourne)
+
+
+
 - __Estimation of Text Difficulty in the Context of Language Learning__
   - Anisia Katinskaia, Anh-Duc Vu, Jue Hou, Yiheng Wu Roman Yangarber (2025)
   - [BEA: 20th Workshop on building educational applications](https://sig-edu.org/bea/2025#accepted-papers), at 63rd ACL Conference (Vienna, Austria)
+
 
 
 - __Intelligent tutor to support teaching and learning of Tatar__
