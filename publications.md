@@ -4,8 +4,8 @@ title: Press and Publications
 
 ## In the Press
 
-- <a target="_blank" href="https://www.mikrobitti.fi/uutiset/kielten-opiskelua-tekoalyn-avulla-revita-muuntaa-uutiset-aukkotehtaviksi/649da0b6-76a0-43a6-8a39-7e8cdbb361eb">__Mikrobitti Magazine__</a> September 2024 — 
-    - <a href="/Press/2024-09-15-Pasi-Kivioja-MB_tekoäly_kieliopinnoissa.pdf" target="_blank">R. Yangarber: Interview about AI in Language Learning</a> (by P. Kivioja)
+- <a target="_blank" href="https://www.mikrobitti.fi/uutiset/kielten-opiskelua-tekoalyn-avulla-revita-muuntaa-uutiset-aukkotehtaviksi/649da0b6-76a0-43a6-8a39-7e8cdbb361eb">__Mikrobitti Magazine__</a> (September 2024 Issue) — 
+    - <a href="/Press/2024-09-15-Pasi-Kivioja-MB_tekoäly_kieliopinnoissa.pdf" target="_blank">Tekoäly kielten opiskelussa (_AI in Language Learning_): Roman Yangarber </a> (Interview by P. Kivioja)
 
 
 ## Recent Publications
