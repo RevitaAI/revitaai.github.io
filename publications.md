@@ -5,12 +5,12 @@ title: Press and Publications
 ## In the Press
 
 - <a target="_blank" href="https://www.mikrobitti.fi/uutiset/kielten-opiskelua-tekoalyn-avulla-revita-muuntaa-uutiset-aukkotehtaviksi/649da0b6-76a0-43a6-8a39-7e8cdbb361eb">__Mikrobitti Magazine__</a> (September 2024 Issue) — 
-    - <a href="/Press/2024-09-15-Pasi-Kivioja-MB_tekoäly_kieliopinnoissa.pdf" target="_blank">Tekoäly kielten opiskelussa (_AI in Language Learning_): Roman Yangarber </a> (Interview by P. Kivioja)
+    - <a href="/Press/2024-09-15-Pasi-Kivioja-MB_tekoäly_kieliopinnoissa.pdf" target="_blank">__Tekoäly kielten opiskelussa__ (_AI in language learning_): Roman Yangarber </a> (Interview by P. Kivioja)
 
 
 ## Recent Publications
 
-- __A Bayesian Approach to Inferring Prerequisite Structures and Topic Difficulty in Language Learning__
+- __A Bayesian approach to inferring prerequisite structures and topic difficulty in language learning__
   - Anh-Duc Vu, Jue Hou, Anisia Katinskaia, Ching-Fan Sheu, Roman Yangarber (2025)
   - [BEA: 20th Workshop on building educational applications](https://sig-edu.org/bea/2025#accepted-papers), at 63rd ACL Conference (Vienna, Austria)
   - Received [__<font color="purple">Best Paper Award</font>__](https://sig-edu.org/bea/2025#accepted-papers)
@@ -22,7 +22,7 @@ title: Press and Publications
 
 
 
-- __Estimation of Text Difficulty in the Context of Language Learning__
+- __Estimation of text difficulty in the context of language learning__
   - Anisia Katinskaia, Anh-Duc Vu, Jue Hou, Yiheng Wu Roman Yangarber (2025)
   - [BEA: 20th Workshop on building educational applications](https://sig-edu.org/bea/2025#accepted-papers), at 63rd ACL Conference (Vienna, Austria)
 
