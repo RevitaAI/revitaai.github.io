@@ -27,7 +27,7 @@ title: Press and Publications
   - Received [__<font color="purple">Best Paper Award</font>__](https://sigturk.github.io/workshop/\#_awards)
 
 
-- __What do Transformers know about government?__
+- __[What do Transformers know about government?](https://aclanthology.org/2024.lrec-main.1518/)__
   - Jue Hou, Anisia Katinskaia, Lari Kotilainen, Sathianpong Trangcasanchai, Anh-Duc Vu,
     Roman Yangarber (2024)
   - [LREC-COLING: Joint 30th Conference on Computational Linguistics and 14th Conference

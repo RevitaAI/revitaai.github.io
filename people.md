@@ -33,14 +33,14 @@ title: Project Team
 - [Nataliya Stoyanova](https://docenti.unicatt.it/ppd2/it/docenti/27572/nataliya-stoyanova/profilo) — associate professor (Catholic University, Milan, Italy)
   - advisor on applied linguistics: studies with university students (Russian).
 - [Laila Paracchini](https://www.unimi.it/en/ugov/person/laila-paracchini) — associate professor, Department of Languages, Literatures, Cultures and Mediations (State University of Milan, Italy)
-  - advisor on Russian: studies with university students (Russian).
+  - advisor on Russian: studies with university students.
 - Annel Baktybaeva — Head of Linguistics Department (Kazakh National Medical University, Almaty, Kazakhstan)
   - second-language teaching (Russian, Kazakh).
 - Alsu Zakirova — MA (Higher School of Economics, St Petersburg, Russia)
   - support for Tatar: development of linguistic topics, feedback for students.
-- Mikhail Zolotilin — MA (UH).  
+- Mikhail Zolotilin — MA (UH)
   - Linguistic resources (Russian).
-- [Jouni Rostila](https://researchportal.helsinki.fi/en/persons/jouni-rostila) — University lecturer (UH).  
+- [Jouni Rostila](https://researchportal.helsinki.fi/en/persons/jouni-rostila) — University lecturer (UH)
   - Principal advisor on applied linguistics for German.
 
 
