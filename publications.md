@@ -1,16 +1,40 @@
 ---
-title: Recent Publications
+title: Press and Publications
 ---
 
-### Our work on AI for language learning:
+## In the Press
+
+- <a target="_blank" href="https://www.mikrobitti.fi/uutiset/kielten-opiskelua-tekoalyn-avulla-revita-muuntaa-uutiset-aukkotehtaviksi/649da0b6-76a0-43a6-8a39-7e8cdbb361eb">__Mikrobitti Magazine__</a> (September 2024 Issue) — 
+    - <a href="/Press/2024-09-15-Pasi-Kivioja-MB_tekoäly_kieliopinnoissa.pdf" target="_blank">__Tekoäly kielten opiskelussa__ (_AI in language learning_): Roman Yangarber </a> (Interview by P. Kivioja)
+
+
+## Recent Publications
+
+- __A Bayesian approach to inferring prerequisite structures and topic difficulty in language learning__
+  - Anh-Duc Vu, Jue Hou, Anisia Katinskaia, Ching-Fan Sheu, Roman Yangarber (2025)
+  - [BEA: 20th Workshop on building educational applications](https://sig-edu.org/bea/2025#accepted-papers), at 63rd ACL Conference (Vienna, Austria)
+  - Received [__<font color="purple">Best Paper Award</font>__](https://sig-edu.org/bea/2025#accepted-papers)
+
+
+- __[AI-assisted second-language teaching and learning in the Zone of Proximal Development](https://www.altaanz.org/4_sila_14_2__hou-et-al.html)__
+  - Jue Hou, Anh-Duc Vu, Anisia Katinskaia, Roman Yangarber (2025)
+  - [Studies in Language Assessment (SiLA) 14(2)](https://arts.unimelb.edu.au/language-testing-research-centre/research/publications/sila/current-issue) (Melbourne)
+
+
+
+- __Estimation of text difficulty in the context of language learning__
+  - Anisia Katinskaia, Anh-Duc Vu, Jue Hou, Yiheng Wu Roman Yangarber (2025)
+  - [BEA: 20th Workshop on building educational applications](https://sig-edu.org/bea/2025#accepted-papers), at 63rd ACL Conference (Vienna, Austria)
+
+
 
 - __Intelligent tutor to support teaching and learning of Tatar__
   - Alsu Zakirova, Jue Hou, Anisia Katinskaia, Anh-Duc Vu, Roman Yangarber (2024)
-  - SIGTURK 2024: Workshop on NLP for Turkic Languages, at 62nd ACL Conference (Bangkok)
-  - Received [__Best Paper Award__](https://sigturk.github.io/workshop/\#_awards)
+  - SIGTURK 2024: Workshop on NLP for Turkic Languages, at 62nd ACL Conference (Bangkok, Thailand)
+  - Received [__<font color="purple">Best Paper Award</font>__](https://sigturk.github.io/workshop/\#_awards)
 
 
-- __What do Transformers know about government?__
+- __[What do Transformers know about government?](https://aclanthology.org/2024.lrec-main.1518/)__
   - Jue Hou, Anisia Katinskaia, Lari Kotilainen, Sathianpong Trangcasanchai, Anh-Duc Vu,
     Roman Yangarber (2024)
   - [LREC-COLING: Joint 30th Conference on Computational Linguistics and 14th Conference
@@ -34,8 +58,8 @@ title: Recent Publications
 
 - __Grammatical error correction for sentence-level assessment in language learning__
   - Anisia Katinskaia, Roman Yangarber (2023)
-  - BEA: 18th Workshop on building educational applications, at 61st ACL Conference (Toronto)
-  - Received [__Outstanding Paper Award__](https://sig-edu.org/bea/2023\#schedule)
+  - BEA: 18th Workshop on building educational applications, at 61st ACL Conference (Toronto, Canada)
+  - Received [__<font color="purple">Outstanding  Paper Award</font>__](https://sig-edu.org/bea/2023\#schedule)
     
 
 - __Effects of sub-word segmentation on performance of transformer language models__
@@ -60,6 +84,16 @@ title: Recent Publications
   - LREC: 13th Conference on Linguistic Resources and Evaluation (Marseille, France)
 
 
+- __Digital cultural heritage and revitalization of endangered Finno-Ugric languages__
+  - Anisia Katinskaia, Roman Yangarber (July 2018)
+  - DHN: 3rd Conference on Digital Humanities in the Nordic Countries (Helsinki, Finland)
+  - Received [__<font color="purple">Best Paper Award and Open Science Award</font>__](https://www.helsinki.fi/en/digital-humanities/dhn-2018)
+
+
+
+- __Revita: a language-learning platform at the intersection of ITS and CALL__
+  - Anisia Katinskaia, Javad Nouri, Roman Yangarber (July 2018)
+  - LREC: 11th Conference on Linguistic Resources and Evaluation (Miyazaki, Japan)
 
 
 <!--
