@@ -17,6 +17,9 @@ the general rules and policies governing your use of our Website. Depending on y
 activities when visiting our Website, you may be required to agree to additional terms and
 conditions.
 </p>
+
+<p>Here is our latest <a href="./Privacy_Statement.pdf">Privacy Statement</a></p>
+
 <h2>Website Visitors</h2>
 <p>
 Like most website operators, Revita collects non-personally-identifying information of the
