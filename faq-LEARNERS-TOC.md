@@ -1,3 +1,4 @@
+
 ---
 title: FAQ for Learners
 ---
@@ -12,6 +13,7 @@ title: FAQ for Learners
   - [Can I upload a deck of flashcards for practice?](#can-i-upload-a-deck-of-flashcards-for-practice)
   - [Can I share a story with a friend?](#can-i-share-a-story-with-a-friend)
 - [Practice](#practice)
+  - [While I'm practicing, I'd like to get more practice with listening and hearing how the language sounds. Can I hear how words, phrases and sentences are pronounced?](#while-im-practicing-id-like-to-get-more-practice-with-listening-and-hearing-how-the-language-sounds-can-i-hear-how-words-phrases-and-sentences-are-pronounced)
   - [How does Revita create exercises based on your chosen story?](#how-does-revita-create-exercises-based-on-your-chosen-story)
   - [How are flashcards collected?](#how-are-flashcards-collected)
   - [Why do flashcards have different colors?](#why-do-flashcards-have-different-colors)
@@ -24,6 +26,13 @@ title: FAQ for Learners
   - [How can I join a group?](#how-can-i-join-a-group)
 - [Other](#other)
   - [My question is not in this list, whom can I ask?](#my-question-is-not-in-this-list-whom-can-i-ask)
+- [Getting Help](#getting-help)
+  - [If the students or teachers need help or want to give feedback to the system developers, what are they advised to do?](#if-the-students-or-teachers-need-help-or-want-to-give-feedback-to-the-system-developers-what-are-they-advised-to-do)
+  - [My page in the browser does not look as I expect.  What should I do?](#my-page-in-the-browser-does-not-look-as-i-expect--what-should-i-do)
+- [](#)
+  - [How can I change the language I'm learning ?
+](#how-can-i-change-the-language-im-learning-
+)
 
 
 <!-- table of contents created by Adrian Bonnet, see https://Relex12.github.io/Markdown-Table-of-Contents for more -->
@@ -37,12 +46,13 @@ ____________________________________________________________________________
 
 ### Why should I register in Revita?
 
-You can use Revita in "*guest*"  mode, without registering.  However, if you register, Revita can offer you important features, such as:
+You can use Revita as a "*guest*", without registering.  
+However, if you do register, Revita can offer you important additional features, most important of whihc are:
 
-* adding stories to your own private library (if you are not registered, Revita can't link the library to you),
-* keeping track of your progress over time — analyzing your level of proficiency is essential  to make sure that the exercises optimally fit your level: are not too easy and not too difficult too often.
+* adding texts to your own private library. If you are not registered, Revita can't link the library to you.
+* keeping track of your progress over time — analyzing your level of proficiency is essential  to make sure that the exercises you receive will optimally fit your current level — that they are not too easy and not too difficult.
 
-Note, when you register, you create a user name, by which other users can see you in the system.  Your email address is used for registration **only**, and **is not** published or revealed in any way — it is completely safe.
+Note, when you register, you create a user name, by which other users can see you in the system.  Your email address is used for registration **only**, and **is never** published or revealed in any way — it is completely safe.
 
 ![login](assets/images/200180-register1.png.webp)
 
@@ -52,11 +62,11 @@ ____________________________________________________________________________
 
 ### How can I change my user name, email or password?
 
-Your personal information can be viewed and edited in the <u>Profile</u> ⇒ <u>Account  View</u>.  You can reach it by clicking on the <u>Profile</u> icon or the <u>Settings</u> icon.
+To view or edit your personal information, go to <u>Profile</u> ⇒ <u>Account </u> View.  You can reach it by clicking on the <u>Profile</u> icon or the <u>Settings</u> icon.
 
-The Account view allows you to change your user name or your password.  Currently, the email of the account cannot be changed.  In the near future we will enable also the changing of the email.
+The _Account_ view allows you to change your user name or password.  Currently, the email of the account cannot be changed.  In the near future we will enable also the changing the email address.
 
-If you've *forgotten your password*, you can always request a form to renew the password via your email address.
+If you've *forgotten your password*, you can always request to renew the password at any time via your email address.
 
 
 ____________________________________________________________________________
@@ -68,9 +78,9 @@ ____________________________________________________________________________
 ### Where do I find stories/texts for practice? How do libraries work?
 
 Revita offers three kinds of libraries:
-1. The **Public** library — this is a sample collection of stories of various levels of difficulty.  We (the Revita Team) collected them from various sources.
-1. The **Private** library — this contains all the stories that the user has uploaded herself.  These are private stories, not visible to any other users — unless the user decides to **share** them.
-1. The **Group** library — each group that a teacher creates has its own separate library of texts selected specifically for that group, and visible only to that group of students.
+1. The **Public** library — this is a sample collection of stories of various levels of difficulty.  The Revita Team collect these texts from various sources.
+1. The **Private** library — this contains all the stories that the user has uploaded herself.  These are private stories, they are **not visible to any other** user — unless the user decides to **share** a story.
+1. The **Group** library — each group that a teacher creates has its own separate Group library of texts selected specifically for that group, and visible only to that group of students.
 
 
 ____________________________________________________________________________
@@ -81,14 +91,15 @@ ____________________________________________________________________________
 There are several ways to upload a new story into the Revita system:
 * Go to the _Library View_ from the Home Page
 * Click the button **Add new story**
-* Here you will have several options for uploading stories:
-    * You can upload a story from any web page, anywhere on the Internet.
-        * Simply enter the address of the web page, and Revita will extract the story from the web page
-        * Note: depending on the web page, there may be some inaccuracies in the extracted text.  That's fine, since you can edit the story any time — and correct any inaccuracies or mistakes.
-    * You can upload a story from a file on your computer: the file must have a name ending in _.txt_ or _.docx_
-    * You can enter a story directly into a text box (for example, by copy-paste).
+* Here you will find several options for uploading stories:
+    * You can upload a story from any **web page**, from anywhere on the Internet.
+        * Enter the address of the web page, and Revita will extract the story from the web page.
+        * Note: depending on the web page, there may be some inaccuracies in the extracted text.  That's fine, because you can **edit** the story at any time — you can correct any inaccuracies or mistakes.
+    * You can upload a story from a file on your computer.
+        * The file must have a name ending in _.txt_ or _.docx_
+    * You can enter a story directly into a text box, e.g. by copy-paste.
     * You can ask Revita to **generate** a new story for you — based on your preferences:
-        * you can specify the _topic or domain_ of the story — for example: a story about human evolution, or about obtaining social services in Finland, etc.
+        * You can specify the _topic or domain_ of the story — for example: a story about human evolution, or about obtaining social services in Finland, etc.
         * you can specify what _type of exercises_ the story should contain — by selecting from a large number of learning topics. 
 
 Note: All stories are uploaded into the user's **own private** library.
@@ -137,6 +148,29 @@ ____________________________________________________________________________
 ____________________________________________________________________________
 ## Practice
 
+
+
+### While I'm practicing, I'd like to get more practice with listening and hearing how the language sounds. Can I hear how words, phrases and sentences are pronounced?
+
+Revita can read aloud pieces of text on which the learner is practicing.  The system tries to help the learner to become accustomed to how the language sounds.  This happens in several ways:
+
+- When the student clicks an unfamiliar word — the learner can hear how the word sounds.  At the same time, its translation is shown and the word is added to the learner's set of flashcards.
+- When the learner checks answers — Revita reads aloud the part of the snippet that was answered correctly: a phrase, or an entire sentence.  Each part is read only once, so nothing is repeated.
+Both are controlled by the same switch in Settings — "When I complete an exercise or click on an unfamiliar word, I want to hear how it sounds." 
+
+You can find this setting in three places:
+
+- Home Page ⇒ Profile ⇒ Settings ⇒ Audio settings,
+- the gear button while practicing with a story,
+- the gear button while previewing or reviewing a story.
+This is the same setting, so changing it in one place changes it everywhere.  It is turned on by default.  
+Note: all settings are saved in your account — so they follows you to any computer or browser from which you log in.
+
+Hearing a word read aloud is not the same as a Listening Exercise — those are exercises where you hear a word or phrase and you type what you heard. 
+These features are switched on and off separately, under "Practice Listening — fill-in-the-blank exercises" in the Settings view.
+
+
+____________________________________________________________________________
 
 
 ### How does Revita create exercises based on your chosen story?
@@ -263,7 +297,8 @@ ____________________________________________________________________________
 
 ### What is a Group?
 
-You can join a group if you are learning with a teacher.  Groups are created by teachers — at a school, a university, private tutors, etc.  A teacher can add her students (and additional teachers) to a group.  The purpose of a group is:
+You can join a group if you are learning with a teacher.  
+Groups are created by teachers — at a school, a university, private tutors, etc.  A teacher can add her students, and additional teachers, to a group.  The purpose of a group is:
 * Each Group has a Library, where the teacher uploads stories that she recommends as helpful for the students.
 * The teacher can follow how well the students are practicing with the stories.  The teacher can see — for the entire group — which topics the students have mastered, and which are more challenging, so the teacher can plan the lectures better.
 
@@ -292,6 +327,51 @@ ____________________________________________________________________________
 ### My question is not in this list, whom can I ask?
 
 If you have any questions — or suggestions or comments — please contact the team through the <u>Contact</u> page, or write to the Revita team at [revita@helsinki.fi](mailto:revita@helsinki.fi)
+
+
+____________________________________________________________________________
+____________________________________________________________________________
+## Getting Help
+
+
+
+### If the students or teachers need help or want to give feedback to the system developers, what are they advised to do?
+
+1. they can ask the AI ASSISTANT in the right side panel:
+   - for example:  
+      - I need help with X.  
+      - I don't understand what Y is.
+      - etc.
+   - Note: it is important to understand: the ASSISTANT behaves DIFFERENTLY on different pages: it is prepared to answer DIFFERENT questions, depending on the CONTEXT — on which page the question is asked.
+2. They can CONTACT US (the Developer Team): 
+   - if they don't receive a good answer — 
+   - go to the left SIDEBAR ⇒ "Contact Us" ⇒ report a problem or ask a question.
+   - someone will answer very soon.
+
+
+____________________________________________________________________________
+
+
+### My page in the browser does not look as I expect.  What should I do?
+
+It is always good to *refresh* the page to make sure that the browser is not stuck in some old state.
+You can refresh or reload the current page in several ways:
+- Click "Reload" button in top-left of your browser.
+- Enter Ctrl-R on the keyboard.
+- Enter Ctrl-F5 on the keyboard.
+(Note: the last two may depend on the operating system)
+
+
+____________________________________________________________________________
+____________________________________________________________________________
+## 
+
+
+
+### How can I change the language I'm learning ?
+
+
+
 
 
 

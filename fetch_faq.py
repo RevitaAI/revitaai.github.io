@@ -47,7 +47,7 @@ def load_faq(df):
             'content': {},
         },
     }
-    for row in df.sort_values(by=['#']).to_dict(orient='records'):
+    for row in df.to_dict(orient='records'):
         if not row['Question']:
             continue
         # print(row)
@@ -77,7 +77,7 @@ def format_md(md_dict):
                 if q:
                     content += f'{SEPARATOR}'
                 content += data['content'][question]
-        with open(md_file, 'w') as f:
+        with open(md_file, 'w', encoding='utf-8') as f:
             f.write(OVERALL_TEMPLATE.format(role=data['role'], toc=toc, content=content))
         
         
