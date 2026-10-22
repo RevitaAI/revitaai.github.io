@@ -1,5 +1,8 @@
 <h1>Welcome to our Privacy Policy</h1>
-<h3>Your privacy is critically important to us.</h3>
+
+<h3 style="color: #FF3300;">Here is our latest <a href="./Privacy_Statement.pdf">Privacy Statement</a></h3>
+
+<h3>Your privacy is critically important to us!</h3>
 <p>
 It is Revita's policy to respect your privacy regarding any information we may collect while
 operating our website. This Privacy Policy applies to{' '}
@@ -17,6 +20,9 @@ the general rules and policies governing your use of our Website. Depending on y
 activities when visiting our Website, you may be required to agree to additional terms and
 conditions.
 </p>
+
+
+
 <h2>Website Visitors</h2>
 <p>
 Like most website operators, Revita collects non-personally-identifying information of the
